@@ -2505,6 +2505,10 @@ aside .news-letter hr {
 	margin-bottom: 1em;
 }
 
+.course-detail li {
+	list-style: disc;
+}
+
 .course-detail .course-intro p {
 	margin-top: 1.25em;
 	/*margin-bottom: 2.5em;*/
