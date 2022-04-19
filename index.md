@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "HighResMIP2"
+title: "HighResMIP"
 ---
 
-Hello HighResMIP2!
+Hello HighResMIP!
 
