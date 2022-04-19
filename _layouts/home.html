@@ -2,8 +2,27 @@
 layout: base_highresmip
 ---
 
-   
-   
+<div class="banner">
+    <div class="owl-four owl-carousel" itemprop="image">
+        <img src="assets/images/homepage/66015-ocean_current_different_resol.png" 
+        alt="Ocean surface current at three different resolutions of the ORCA grid.">
+        <img src="images/page-banner2.jpg" alt="Image of Bannner">
+        <img src="images/page-banner3.jpg" alt="Image of Bannner">
+    </div>
+    <div class="container" itemprop="description">
+        <h1>welcome to HighResMIP</h1>
+        <h3>Help us to develop the next HighResMIP protocol...</h3>
+    </div>
+     <div id="owl-four-nav" class="owl-nav"></div>
+</div>
 
-    
-{{ content }}
+<section class="page-content" id="course-page">
+    <div class="container">
+        <main class="course-detail">
+            <h2>{{ page.title | default: site.title }}</h2>
+            <article>
+                {{ content }}
+            </article>
+        </main>
+    </div>
+</section>

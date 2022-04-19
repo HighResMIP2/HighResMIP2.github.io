@@ -2,7 +2,14 @@
 layout: base_highresmip
 ---
 
-   
-
-{{ content }}
+<section class="page-content" id="course-page">
+    <div class="container">
+        <main class="course-detail">
+            <h2>{{ page.title | default: site.title }}</h2>
+            <article>
+                {{ content }}
+            </article>
+        </main>
+    </div>
+</section>
 

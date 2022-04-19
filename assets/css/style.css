@@ -807,12 +807,14 @@ ul > li {
 	/*font-size: 4rem;*/
 	font-weight: bold;
 	text-transform: uppercase;
+	color: #8ba21e;
 	margin-top: 5em;
 }
 
 .banner .container h3 {
 	font-weight: normal;
 	/*font-size: 2rem;*/
+	color: #8ba21e;
 }
 
 /*==Banner Owl Carousel===*/
@@ -827,7 +829,7 @@ ul > li {
 	font-weight: bold;
 	background: transparent;
 	border: none;
-	/*color: #fff;*/
+	color: #8ba21e;
 	cursor: pointer;
 }
 
