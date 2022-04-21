@@ -1,6 +1,6 @@
 # HighResMIP2 GitHub Pages website
 
-This website is hosted through [GitHub Pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll). Basically, this allows pages to be written in [Markdown](https://www.markdownguide.org/tools/jekyll/), which is then converted to static HTML webpages by applying the template included in the repository. The static web pages are then served from https://highresmip2.github.io/.
+This website is hosted through [GitHub Pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll). Basically, this allows pages to be written in [Markdown](https://www.markdownguide.org/tools/jekyll/), which is then converted to static HTML webpages by applying the template included in the repository. The static web pages are then served from https://highresmip.org/.
 
 The pages are hosted in the [gh-pages](https://github.com/HighResMIP2/HighResMIP2.github.io/tree/gh-pages) branch of this repository. You can monitor the building of this branch from markdown into static HTML on the [Actions](https://github.com/HighResMIP2/HighResMIP2.github.io/actions) page. When you are developing the pages locally then you can use Ruby and Jekyll to build and serve these pages locally. 
 
@@ -93,6 +93,6 @@ Users should branch the `gh-pages` branch, develop their changes on their branch
 
 1. Monitor [GitHub Actions](https://github.com/HighResMIP2/HighResMIP2.github.io/actions) to check that the changes are built, reported and deployed.
 
-1. Your changes should now be available at https://highresmip2.github.io/.
+1. Your changes should now be available at https://highresmip.org/.
 
 
