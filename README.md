@@ -16,7 +16,7 @@ It is relatively easy to install Ruby and Jekyll into a Conda environment:
 
     `conda activate ruby`
 
-3. Install Jekyll, bundler and their dependencies into this environment:
+1. Install Jekyll, bundler and their dependencies into this environment:
     
     `gem install jekyll bundler`
 
@@ -27,6 +27,14 @@ It is relatively easy to install Ruby and Jekyll into a Conda environment:
 1. In Ruby V3 some dependencies aren't installed automatically and so add these:
 
     `bundle add webrick`
+    
+1. The above steps only need to be done on the initial creation of the Conda environment. Subsequently the Conda environment can be started with just:
+
+    `conda activate ruby`  
+   
+1. Change directory to your local copy of the repository:
+
+    `cd <path-to-local-copy-of-repo>`
 
 1. The site can then be rendered and served locally:
 
@@ -49,7 +57,7 @@ Users should branch the `gh-pages` branch, develop their changes on their branch
 
 1. Create a branch:
 
-    `git br <branch-name> origin/main`
+    `git br <branch-name> origin/gh-pages`
 
 1. Switch to the branch:
 
