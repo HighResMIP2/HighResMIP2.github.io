@@ -1,46 +1,27 @@
 ---
-layout: base_highresmip2
+layout: base_highresmip
 ---
 
-   
-
-    
-<div class="w3-row-padding w3-center w3-margin-top">
-    <div class="w3-third">
-      <div class="w3-card w3-container" style="min-height:460px">
-      <h3>Multi-model</h3><br>
-      <!-- <i class="fa fa-desktop w3-margin-bottom w3-text-theme" style="font-size:120px"></i> -->
-      <img src="assets/images/mainpage/Anonymous_Paper_4_icon.svg" height="120x" width="120px" alt="Many files">
-      <p>Built-in responsiveness</p>
-      <p>Mobile first fluid grid</p>
-      <p>Fits any screen sizes</p>
-      <p>PC Tablet and Mobile</p>
-      </div>
+<div class="banner">
+    <div class="owl-four owl-carousel" itemprop="image">
+        <img src="/assets/images/homepage/66015-ocean_current_different_resol.png" 
+        alt="Ocean surface current at three different resolutions of the ORCA grid.">
+        <img src="/assets/images/homepage/blank-2.png" alt="Blank holding image">
     </div>
-    
-    <div class="w3-third">
-      <div class="w3-card w3-container" style="min-height:460px">
-      <h3>Horizontal Resolution</h3><br>
-      <!-- <i class="fa fa-css3 w3-margin-bottom w3-text-theme" style="font-size:120px"></i> -->
-      <img src="assets/images/mainpage/ruler-9436.svg" height="120x" width="120px" alt="A ruler">
-      <p>Standard CSS only</p>
-      <p>Easy to learn</p>
-      <p>No need for jQuery</p>
-      <p>No JavaScript library</p>
-      </div>
+    <div class="container" itemprop="description">
+        <h1>welcome to HighResMIP</h1>
+        <h3>Help us to develop the next HighResMIP protocol...</h3>
     </div>
-    
-    <div class="w3-third">
-      <div class="w3-card w3-container" style="min-height:460px">
-      <h3>Coordinated Experiments</h3><br>
-      <!-- <i class="fa fa-diamond w3-margin-bottom w3-text-theme" style="font-size:120px"></i> -->
-      <img src="assets/images/mainpage/user-246.svg" height="120x" width="120px" alt="Three users">
-      <p>Paper like design</p>
-      <p>Bold colors and shadows</p>
-      <p>Equal across platforms</p>
-      <p>Equal across devices</p>
-      </div>
-    </div>
+     <div id="owl-four-nav" class="owl-nav"></div>
 </div>
-    
-{{ content }}
+
+<section class="page-content" id="course-page">
+    <div class="container">
+        <main class="course-detail">
+            <h2>{{ page.title | default: site.title }}</h2>
+            <article>
+                {{ content }}
+            </article>
+        </main>
+    </div>
+</section>
