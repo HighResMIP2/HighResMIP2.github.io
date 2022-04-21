@@ -785,7 +785,7 @@ ul > li {
 /*===============Banner Images===========*/
 .banner {
 	position: relative;
-	margin-bottom: -8px;
+	margin-bottom: -50px;
 }
 
 .banner img {
@@ -835,7 +835,7 @@ ul > li {
 
 .banner #owl-four-nav {
 	position: absolute;
-	top: 40%;
+	top: 50%;
 	left: 0;
 	z-index: 9;
 }
