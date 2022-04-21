@@ -54,14 +54,18 @@ Users should branch the `gh-pages` branch, develop their changes on their branch
 1. Change into the local copy:
 
     `cd HighResMIP2.github.io`
+    
+1. Update your local copy with any changes made in the remote copy:
+
+    `git fetch origin`
 
 1. Create a branch:
 
-    `git br <branch-name> origin/gh-pages`
+    `git branch <branch-name> origin/gh-pages`
 
 1. Switch to the branch:
 
-    `git co <branch-name>`
+    `git checkout <branch-name>`
 
 1. Make your changes
 
