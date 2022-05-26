@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publications
-permalink: /publications/
+permalink: /about/publications/
 ---
 
 The following are publications known to include results using CMIP6 HighResMIP model simulations and that do not include coauthors from the PRIMAVERA project, or have been published after PRIMAVERA ended (so 2021 onwards). Papers that include PRIMAVERA co-authors can be found at https://www.primavera-h2020.eu/output/scientific-papers/
