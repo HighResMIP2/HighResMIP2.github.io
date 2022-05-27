@@ -8,9 +8,11 @@ The following are publications known to include results using CMIP6 HighResMIP m
 
 
 ## Published
-### 2022 (9)
+### 2022 (10)
 
 Bloemendaal, N., de Moel, H., Martinez, A.B., Muis, S., Haigh, I,D., van der Wiel, K., Haarsma, R.J., Ward, P.J., Roberts, M.J., Dullaart, J.C.M, and Aerts, J.C.J.H, 2022: A globally consistent local-scale assessment of future tropical cyclone risk. Science Advances, accepted.
+
+Farneti, R., Stiz, A. & Ssebandeke, J.B. Improvements and persistent biases in the southeast tropical Atlantic in CMIP models. npj Clim Atmos Sci 5, 42 (2022). [https://doi.org/10.1038/s41612-022-00264-4](https://doi.org/10.1038/s41612-022-00264-4).
 
 Hodson, D., Bretonnière, P.-A., Cassou, C., Davini, P., Klingaman, N., Lohmann, K., Lopez-Parages, J., Martín-Rey, M., Moine, M.-P., Monerie, P.-A., Putrasahan, D. A., Roberts, C. D., Robson, J., Ruprich-Robert, Y., Sanchez-Gomez, E., Seddon, J. and Senan, R., 2022: Coupled climate response to Atlantic Multidecadal Variability in a multi-model multi-resolution ensemble. Clim. Dyn. ISSN 0930-7575. [https://link.springer.com/article/10.1007/s00382-022-06157-9](https://link.springer.com/article/10.1007/s00382-022-06157-9).
 
