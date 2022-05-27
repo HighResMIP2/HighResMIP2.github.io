@@ -99,7 +99,8 @@ Users should branch the `gh-pages` branch, develop their changes on their branch
 
     `git push origin <branch-name>`
 
-1. Create a pull request at GitHub by going to https://github.com/HighResMIP2/HighResMIP2.github.io/compare and comparing `<branch-name>` with `gh-pages`.
+1. Create a pull request at GitHub by going to https://github.com/HighResMIP2/HighResMIP2.github.io/compare.  Change the 
+   base branch from `main` to `gh-pages` and the compare branch to your `<branch-name>`.
 
 1. Review (yourself or someone else) the pull request and merge into `gh-pages`.
 
