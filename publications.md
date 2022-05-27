@@ -123,4 +123,4 @@ Synthetic TC track dataset from Bloemendaal et al. (2022).
 
 ## HighResMIP protocol citations:
 
-Citations and other metrics are available from Haarsma et al., 2016: [https://gmd.copernicus.org/articles/9/4185/2016/gmd-9-4185-2016-metrics.html](https://gmd.copernicus.org/articles/9/4185/2016/gmd-9-4185-2016-metrics.html)
+Citations and other metrics are available from [Haarsma et al., 2016](https://gmd.copernicus.org/articles/9/4185/2016/gmd-9-4185-2016-metrics.html).
