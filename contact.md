@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-permalink: /contact/
+permalink: /about/contact/
 ---
 
 HighResMIP2 is being coordinated using the [HighResMIP2 Slack Channel](https://highresmip2.slack.com/ssb/redirect).
