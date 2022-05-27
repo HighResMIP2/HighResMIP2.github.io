@@ -108,4 +108,16 @@ Users should branch the `gh-pages` branch, develop their changes on their branch
 
 1. Your changes should now be available at https://highresmip.org/.
 
+1. In the PR page, or from the [branches](https://github.com/HighResMIP2/HighResMIP2.github.io/branches) page delete 
+   your `<branch-name>` branch.
+
+1. Change your local copy of the code back to the `gh-pages` branch, delete your local copy of the branch and pull
+   in the changes from GitHub to your local copy
+
+    `git checkout gh-pages` 
+
+    `git branch -D <branch-name>` 
+    
+    `git pull origin gh-pages` 
+
 
