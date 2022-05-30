@@ -84,6 +84,13 @@ We are gradually building a committee structure with coordinators to address the
 					<li style="list-style:none;"><a href="http://staff.lasg.ac.cn/qbao/index_e.htm"><i class="fa fa-globe"></i></a></li>
 				</ul>
 			</div>
+			<div class="developer-wrap">
+                                <h3>Pier Luigi Vidale</h3>
+				<p>Coordinator - Science questions, protocol</p>
+				<ul>
+					<li style="list-style:none;"><a href="https://research.reading.ac.uk/meteorology/people/pier-luigi-vidale/"><i class="fa fa-globe"></i></a></li>
+				</ul>
+			</div>
 		</article>
 	</div>
 </section>
