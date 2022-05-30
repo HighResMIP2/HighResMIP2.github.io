@@ -3,7 +3,7 @@ layout: default
 title: Contact
 permalink: /about/contact/
 ---
-If you'd like to get invovled in HighResMIP, then please contact one of the <a href="../committee">organising committee</a>
+If you'd like to get involved in HighResMIP, then please contact one of the [organising committee](../committee)
 
 For existing project members:
 HighResMIP2 is being coordinated using the [HighResMIP2 Slack Channel](https://highresmip2.slack.com/ssb/redirect).

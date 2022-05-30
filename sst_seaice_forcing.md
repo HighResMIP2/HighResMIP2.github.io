@@ -4,7 +4,7 @@ title: SSTSeaiceForcing
 permalink: /experiments/sst_seaice_forcing/
 ---
 
-<h3> SST and sea-ice forcing used for CMIP6 HighResMIP</h3>
+### SST and sea-ice forcing used for CMIP6 HighResMIP
 Many studies have shown that gradients in SST associated with fronts and ocean eddies can have significant influence on the atmosphere via changes in air-sea fluxes. Similarly, there is evidence that daily variability rather than monthly smoothed forcing can influence model simulations . Since the high resolution simulations will approach 25km, this means there is a requirement for a daily, 1⁄4 degree dataset for a period longer than satellite-based datasets are able to provide.
 
 Hence, we will use a new dataset based on HadISST2.2.0.0 (Kennedy et al., The Met Office Hadley Centre Sea Ice and Sea-Surface Temperature data set, version 2.2.0.0, Technical Note, in prep) which has these properties for both SST and sea-ice concentration for the period 1950-2014 – in addition, it provides an ensemble of historic realizations which can potentially be used to produce multiple ensemble members.
