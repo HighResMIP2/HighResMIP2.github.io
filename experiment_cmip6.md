@@ -11,19 +11,19 @@ The HighResMIP protocol is described in detail in [Haarsma et al 2016](http://ww
 The HighResMIP output requirements are described in the [Data Request](https://earthsystemcog.org/projects/wip/CMIP6DataRequest%20CMIP6).  
 Below is a short outline of the protocol
 
-#### Tier 1: Forced-atmosphere  runs 1950-2014
+### Tier 1: Forced-atmosphere  runs 1950-2014
 Experiment name: **highresSST-present**: Using HadISST2.2.0.0 1/4 degree SST and sea-ice forcing dataset - see [sst-and-sea-ice-forcing](../sst_seaice_forcing/)
 
-#### Tier 2: Coupled runs 1950-2050
+### Tier 2: Coupled runs 1950-2050
 Control:   100 years with 1950's forcing.        Experiment name: **control-1950**  
 Historic:  1950-2014  with historic forcing.     Experiment name: **hist-1950**  
 Future:    2015-2050 with SSP585 forcing.        Experiment name: **highres-future**  
 Spin-up:  50 year spin-up from EN4 ocean climatology with constant 1950's forcing. Experiment name: **spinup-1950**  
 
-#### Tier 3: Forced-atmosphere 2015-2050 (2100)
+### Tier 3: Forced-atmosphere 2015-2050 (2100)
 2015-2050 with SSP585 forcing (and future SST/sea-ice fields).  Experiment name: **highresSST-future**
 
-#### Motivation of these three Tiers
+### Motivation of these three Tiers
 
 Focus of HighResMIP is on the 1950-2050 period (Tier 2). This period includes significant past changes and the time horizon for the future is relevant for decision makers.
 
@@ -35,7 +35,7 @@ Experiments are repeated with standard resolution. This version is also the entr
 
 HighResMIP philosophy: No or minimal additional tuning for high resolution version. If tuning is necessary it should be well documented.
 
-#### Further proposed targeted experiments
+### Further proposed targeted experiments
 We never had enough groups willing to do additional idealised experiments, but these may be ideas to take forwards into the updated HighResMIP:
 
 Leaf area index (LAI) experiment highresSST-LAI  
