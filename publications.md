@@ -10,13 +10,17 @@ The following are publications known to include results using CMIP6 HighResMIP m
 ## Published
 ### 2022 (10)
 
-Bloemendaal, N., de Moel, H., Martinez, A.B., Muis, S., Haigh, I,D., van der Wiel, K., Haarsma, R.J., Ward, P.J., Roberts, M.J., Dullaart, J.C.M, and Aerts, J.C.J.H, 2022: A globally consistent local-scale assessment of future tropical cyclone risk. Science Advances, accepted.
+Bloemendaal, N., de Moel, H., Martinez, A.B., Muis, S., Haigh, I,D., van der Wiel, K., Haarsma, R.J., Ward, P.J., Roberts, M.J., Dullaart, J.C.M, and Aerts, J.C.J.H, 2022: A globally consistent local-scale assessment of future tropical cyclone risk. Science Advances. [https://doi.org/10.1126/sciadv.abm8438](https://doi.org/10.1126/sciadv.abm8438).
 
 Farneti, R., Stiz, A. & Ssebandeke, J.B. Improvements and persistent biases in the southeast tropical Atlantic in CMIP models. npj Clim Atmos Sci 5, 42 (2022). [https://doi.org/10.1038/s41612-022-00264-4](https://doi.org/10.1038/s41612-022-00264-4).
+
+Hewitt, H., Fox-Kemper, B., Pearson, B. et al., 2022: The small scales of the ocean may hold the key to surprises. Nature Climate Change, 12, 496–499. [https://doi.org/10.1038/s41558-022-01386-6](https://doi.org/10.1038/s41558-022-01386-6).
 
 Hodson, D., Bretonnière, P.-A., Cassou, C., Davini, P., Klingaman, N., Lohmann, K., Lopez-Parages, J., Martín-Rey, M., Moine, M.-P., Monerie, P.-A., Putrasahan, D. A., Roberts, C. D., Robson, J., Ruprich-Robert, Y., Sanchez-Gomez, E., Seddon, J. and Senan, R., 2022: Coupled climate response to Atlantic Multidecadal Variability in a multi-model multi-resolution ensemble. Clim. Dyn. ISSN 0930-7575. [https://link.springer.com/article/10.1007/s00382-022-06157-9](https://link.springer.com/article/10.1007/s00382-022-06157-9).
 
 Leung, L. R., Boos, W. R., Catto, J. L., DeMott, C., Martin, G. M., Neelin, J. D., O’Brien, T. A., Xie, S., Feng, Z., Klingaman, N. P., Kuo, Y., Lee, R. W., Martinez-Villalobos, C., Vishnu, S., Priestley, M., Tao, C., & Zhou, Y., 2022: Exploratory precipitation metrics: spatiotemporal characteristics, process-oriented, and phenomena-based, Journal of Climate (published online ahead of print 2022). [https://doi.org/10.1175/JCLI-D-19-0137.1](https://doi.org/10.1175/JCLI-D-19-0137.1).
+
+Liu, B., Gan, B., Cai, W., Wu, L., Geng, T., Wang, H., et al., 2022: Will increasing climate model resolution be beneficial for ENSO simulation? Geophysical Research Letters, 49, e2021GL096932. [https://doi.org/10.1029/2021GL096932](https://doi.org/10.1029/2021GL096932).
 
 López-Parages, J., and Terray, L., 2022: Tropical North Atlantic Response to ENSO: Sensitivity to Model Spatial Resolution. Journal of Climate 35, 1, 3-16. [https://doi.org/10.1175/JCLI-D-21-0240.1](https://doi.org/10.1175/JCLI-D-21-0240.1).
 
@@ -24,11 +28,15 @@ Moreno-Chamarro, E., E., Caron, L.-P., Loosveldt Tomas, S., Gutjahr, O., Moine, 
 
 Notaro, M., Jorns, J., and Briley, L., 2022: Representation of Lake-Atmosphere Interactions and Lake-Effect Snowfall in the Laurentian Great Lakes Basin Among HighResMIP Global Climate Models. Journal of the Atmospheric Sciences. [https://doi.org/10.1175/JAS-D-21-0249.1](https://doi.org/10.1175/JAS-D-21-0249.1).
 
+Paolini, L. F., Athanasiadis, P. J., Ruggieri, P., & Bellucci, A., 2022: The atmospheric response to meridional shifts of the Gulf Stream SST front and its dependence on model resolution, Journal of Climate. [https://doi.org/10.1175/JCLI-D-21-0530.1](https://doi.org/10.1175/JCLI-D-21-0530.1).
+
 Priestley, M. D. K., & Catto, J. L., 2022: Improved representation of extratropical cyclone structure in HighResMIP models. Geophysical Research Letters, 49, e2021GL096708. [https://doi.org/10.1029/2021GL096708](https://doi.org/10.1029/2021GL096708).
+
+Song, K., Zhao, J., Zhan, R., Tao, L., & Chen, L., 2022: Confidence and uncertainty in simulating tropical cyclone long-term variability using the CMIP6-HighResMIP, Journal of Climate. [https://doi.org/10.1175/JCLI-D-21-0875.1](https://doi.org/10.1175/JCLI-D-21-0875.1).
 
 Tsartsali, E. E., Haarsma, R. J., Athanasiadis, P. J., Bellucci, A., de Vries, H., Drijfhout, S., de Vries, I. E., Putrasahan, D., Roberts, M. J., Sanchez-Gomez, E., Roberts, C. D., 2022: Impact of resolution on the atmosphere-ocean coupling along the Gulf Stream in global high resolution models. Clim. Dyn. [https://doi.org/10.1007/s00382-021-06098-9](https://doi.org/10.1007/s00382-021-06098-9).
 
-Zhao, M. (2022). A Study of AR-, TS-, and MCS-Associated Precipitation and Extreme Precipitation in Present and Warmer Climates, Journal of Climate, 35(2), 479-497. [https://doi.org/10.1175/JCLI-D-21-0145.1](https://doi.org/10.1175/JCLI-D-21-0145.1).
+Zhao, M., 2022: A Study of AR-, TS-, and MCS-Associated Precipitation and Extreme Precipitation in Present and Warmer Climates. Journal of Climate, 35(2), 479-497. [https://doi.org/10.1175/JCLI-D-21-0145.1](https://doi.org/10.1175/JCLI-D-21-0145.1).
 
 
 
@@ -99,8 +107,6 @@ Baker, A.J., Roberts, M.J., Vidale, P.L., Hodges, K.,I., Haarsma, R.J., Seddon, 
 Bloomfield, H. C., Brayshaw, D. J., Deakin, M., and Greenwood, D., 2022: Hourly historical and near-future weather and climate variables for energy system modelling, Earth Syst. Sci. Data Discuss., in review, [https://doi.org/10.5194/essd-2021-436](https://doi.org/10.5194/essd-2021-436).
 
 Dorrington, J., Strommen, K., and Fabiano, F., 2021: How well does CMIP6 capture the dynamics of Euro-Atlantic weather regimes, and why?, Weather Clim. Dynam. Discuss., in review (Oct 2021). [https://doi.org/10.5194/wcd-2021-71](https://doi.org/10.5194/wcd-2021-71).
-
-Famooss Paolini, L., Athanasiadis, P., Ruggieri, P., Bellucci, A., 2022: The atmospheric response to meridional shifts of the Gulf Stream SST front and the role of atmospheric horizontal resolution. In review for the Journal of Climate.
 
 Lockwood, J., et al., 2022: Using high-resolution global climate models from the PRIMAVERA project to create a European winter windstorm event set. NHESS, submitted (Jan 2022). [https://doi.org/10.5194/nhess-2022-12](https://doi.org/10.5194/nhess-2022-12).
 
