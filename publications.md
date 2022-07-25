@@ -8,7 +8,11 @@ The following are publications known to include results using CMIP6 HighResMIP m
 
 
 ## Published
-### 2022 (10)
+### 2022 (17)
+
+Athanasiadis, P. J., Ogawa, F., Omrani, N.-E., Keenlyside, N., Schiemann, R., Baker, A.J., Vidale, P.L., Bellucci, A., Ruggieri, P., Haarsma, R., Roberts, M., Roberts, C., Novak, L., Guialdi, S., 2022: Mitigating climate biases in the mid-latitude North Atlantic by increasing model resolution: SST gradients and their relation to blocking and the jet. J. Clim., accepted.
+
+Baker, A. J., Roberts, M. J., Vidale, P. L., Hodges, K. I., Seddon, J., Vannière, B., Haarsma, R. J., Schiemann, R., Kapetanakis, D., Tourigny, E., Lohmann, K., Roberts, C. D., & Terray, L., 2022: Extratropical Transition of Tropical Cyclones in a Multiresolution Ensemble of Atmosphere-Only and Fully Coupled Global Climate Models. J. Clim., 35, 5283-5306. [https://doi.org/10.1175/JCLI-D-21-0801.1](https://doi.org/10.1175/JCLI-D-21-0801.1)
 
 Bloemendaal, N., de Moel, H., Martinez, A.B., Muis, S., Haigh, I,D., van der Wiel, K., Haarsma, R.J., Ward, P.J., Roberts, M.J., Dullaart, J.C.M, and Aerts, J.C.J.H, 2022: A globally consistent local-scale assessment of future tropical cyclone risk. Science Advances. [https://doi.org/10.1126/sciadv.abm8438](https://doi.org/10.1126/sciadv.abm8438).
 
@@ -23,6 +27,8 @@ Leung, L. R., Boos, W. R., Catto, J. L., DeMott, C., Martin, G. M., Neelin, J. D
 Liu, B., Gan, B., Cai, W., Wu, L., Geng, T., Wang, H., et al., 2022: Will increasing climate model resolution be beneficial for ENSO simulation? Geophysical Research Letters, 49, e2021GL096932. [https://doi.org/10.1029/2021GL096932](https://doi.org/10.1029/2021GL096932).
 
 López-Parages, J., and Terray, L., 2022: Tropical North Atlantic Response to ENSO: Sensitivity to Model Spatial Resolution. Journal of Climate 35, 1, 3-16. [https://doi.org/10.1175/JCLI-D-21-0240.1](https://doi.org/10.1175/JCLI-D-21-0240.1).
+
+Moon, Y., Kim, D., Wing, A.A., Camargo, S.J., Zhao, M., Leung, L.R., Roberts, M.J., 2021: An evaluation of tropical cyclone rainfall structure in the HighResMIP simulations against satellite observations. J. Clim., accepted.
 
 Moreno-Chamarro, E., E., Caron, L.-P., Loosveldt Tomas, S., Gutjahr, O., Moine, M.-P., Putrasahan, D., Roberts, C. D., Roberts, M. J., Senan, R., Terray, L., Tourigny, E., and Vidale, P. L., 2022: Impact of increased resolution on long-standing biases in HighResMIP-PRIMAVERA climate models. Geosci. Model Dev., 15, 269–289, 2022. [https://doi.org/10.5194/gmd-15-269-2022](https://doi.org/10.5194/gmd-15-269-2022).
 
@@ -71,6 +77,8 @@ Moreton, S., Ferreira, D., Roberts, M., Hewitt, H., 2021: Air-sea turbulent heat
 
 Squintu, A.A., van der Schrier, G., van den Besselaar, E., van der Linden, E., Scoccimarro, E., Roberts, C. Klein Tank, A., Roberts, M., Putrasahan, D., Senan, R., 2021: Evaluation of trends in extreme temperatures simulated by HighResMIP models across Europe. Clim. Dyn. [https://doi.org/10.1007/s00382-020-05596-6](https://doi.org/10.1007/s00382-020-05596-6).
 
+Treguier, A. M., P. Mathiot, T. Graham, D. Copsey, C. Lique, and J. Sterlin, 2021: Heat Balance in the Nordic Seas in a Global 1/12° Coupled Model. J. Climate, 34, 89–106. [https://doi.org/10.1175/JCLI-D-20-0063.1](https://doi.org/10.1175/JCLI-D-20-0063.1). 
+
 Vidale, P.L., Hodges, K., Davini, P., Roberts, M., Plesca, E., Corti, S., Strommen, K., Weisheimer, A., 2021: Impact of stochastic physics and model resolution on the simulation of Tropical Cyclones in climate GCMs. J. Clim. [https://doi.org/10.1175/JCLI-D-20-0507.1](https://doi.org/10.1175/JCLI-D-20-0507.1).
 
 Wehner, M., Jiwoo Lee, Mark Risser, Paul Ullrich, Peter Gleckler, William D. Collins (2021) Evaluation of extreme subdaily precipitation in high-resolution global climate model simulations. Phil. Trans. R. Soc., 379. [https://doi.org/10.1098/rsta.2019.0545](https://doi.org/10.1098/rsta.2019.0545).
@@ -100,19 +108,13 @@ Caldwell, P. M., Mametjanov, A., Tang, Q., Van Roekel, L. P., Golaz, J.‐C., Li
 
 
 ## Submitted/in prep (10)
-Athanasiadis, P. J., Ogawa, F., Omrani, N.-E., Keenlyside, N., Schiemann, R., Baker, A.J., Vidale, P.L., Bellucci, A., Ruggieri, P., Haarsma, R., Roberts, M., Roberts, C., Novak, L., Guialdi, S., 2021: Mitigating climate biases in the mid-latitude North Atlantic by increasing model resolution: SST gradients and their relation to blocking and the jet. J. Clim., in revision.
-
-Baker, A.J., Roberts, M.J., Vidale, P.L., Hodges, K.,I., Haarsma, R.J., Seddon, J., Vanniere, B., Kapetanakis, D.,  Schiemann, R., Doblas-Reyes, F., Lohmann, K., Roberts, C.D., Terray, L.: Extratropical transition of tropical cyclones in a multiresolution ensemble of atmosphere-land-only and fully coupled global climate models. J. Clim., revised (Mar 2022).
-
 Bloomfield, H. C., Brayshaw, D. J., Deakin, M., and Greenwood, D., 2022: Hourly historical and near-future weather and climate variables for energy system modelling, Earth Syst. Sci. Data Discuss., in review, [https://doi.org/10.5194/essd-2021-436](https://doi.org/10.5194/essd-2021-436).
 
 Dorrington, J., Strommen, K., and Fabiano, F., 2021: How well does CMIP6 capture the dynamics of Euro-Atlantic weather regimes, and why?, Weather Clim. Dynam. Discuss., in review (Oct 2021). [https://doi.org/10.5194/wcd-2021-71](https://doi.org/10.5194/wcd-2021-71).
 
 Lockwood, J., et al., 2022: Using high-resolution global climate models from the PRIMAVERA project to create a European winter windstorm event set. NHESS, submitted (Jan 2022). [https://doi.org/10.5194/nhess-2022-12](https://doi.org/10.5194/nhess-2022-12).
 
-Muis, S., et al., 2022: Low confidence in projected changes in storm surges for the mid-century. In prep for Earth's Future. 
-
-Moon, Y., Kim, D., Wing, A.A., Camargo, S.J., Zhao, M., Leung, L.R., Roberts, M.J., 2021: An evaluation of tropical cyclone rainfall structure in the HighResMIP simulations against satellite observations. J. Clim., submitted.
+Muis, S., et al., 2022: Global projections of storm surges using high-resolution CMIP6 climate models: validation, projected changes, and methodological challenges. Earth's Future, submitted. [https://doi.org/10.1002/essoar.10511919.1](https://doi.org/10.1002/essoar.10511919.1)
 
 Rhoades, A.M., et al., 2021: Asymmetric Emergence of Low-to-No Snow in the American Cordillera. Nature Climate Change, submitted (Dec 2021). [https://doi.org/10.21203/rs.3.rs-969310/v1](https://doi.org/10.21203/rs.3.rs-969310/v1).
 
@@ -125,7 +127,7 @@ Global water level change indicators from 1950 to 2050 derived from HighResMIP c
 
 Winter windstorm dataset from Lockwood et al. (2022).
 
-Synthetic TC track dataset from Bloemendaal et al. (2022).
+Synthetic TC track datasets from Bloemendaal et al. (2022). [https://doi.org/10.4121/uuid:82c1dc0d-5485-43d8-901a-ce7f26cda35d](https://doi.org/10.4121/uuid:82c1dc0d-5485-43d8-901a-ce7f26cda35d); [https://doi.org/10.4121/uuid:779b9dfd-b0ff-4531-8833-aaa9c0cf6b5a](https://doi.org/10.4121/uuid:779b9dfd-b0ff-4531-8833-aaa9c0cf6b5a); [https://doi.org/10.4121/14237678.v1](https://doi.org/10.4121/14237678.v1); [https://doi.org/10.4121/14510817.v1](https://doi.org/10.4121/14510817.v1)
 
 
 
