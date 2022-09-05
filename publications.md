@@ -45,6 +45,10 @@ Song, K., Zhao, J., Zhan, R., Tao, L., & Chen, L., 2022: Confidence and uncertai
 
 Tsartsali, E. E., Haarsma, R. J., Athanasiadis, P. J., Bellucci, A., de Vries, H., Drijfhout, S., de Vries, I. E., Putrasahan, D., Roberts, M. J., Sanchez-Gomez, E., Roberts, C. D., 2022: Impact of resolution on the atmosphere-ocean coupling along the Gulf Stream in global high resolution models. Clim. Dyn. [https://doi.org/10.1007/s00382-021-06098-9](https://doi.org/10.1007/s00382-021-06098-9).
 
+Tsartsali, E. E., Haarsma, R. J., Athanasiadis, P. J., Bellucci, A., de Vries, H., Drijfhout, S., de Vries, I. E., Putrasahan, D., Roberts, M. J., Sanchez-Gomez, E., Roberts, C. D., 2022: Impact of resolution on the atmosphere-ocean coupling along the Gulf Stream in global high resolution models. Clim. Dyn. [https://doi.org/10.1007/s00382-021-06098-9](https://doi.org/10.1007/s00382-021-06098-9).
+
+Zhao, M., 2022: A Study of AR-, TS-, and MCS-Associated Precipitation and Extreme Precipitation in Present and Warmer Climates. Journal of Climate, 35(2), 479-497. [https://doi.org/10.1175/JCLI-D-21-0145.1](https://doi.org/10.1175/JCLI-D-21-0145.1).
+
 Zhao, M., 2022: A Study of AR-, TS-, and MCS-Associated Precipitation and Extreme Precipitation in Present and Warmer Climates. Journal of Climate, 35(2), 479-497. [https://doi.org/10.1175/JCLI-D-21-0145.1](https://doi.org/10.1175/JCLI-D-21-0145.1).
 
 
@@ -179,6 +183,7 @@ Darmaraki, S., Somot, S., Sevault, F., Nabat, P., Cabos Narvaez, W. D., Cavicchi
 
 Docquier, D., J. P. Grist, M. J. Roberts, C. D. Roberts, T. Semmler, L. Ponsoni, F. Massonnet, D. Sidorenko, D. Sein, D. Iovino, T. Fichefet, 2019. Impact of model resolution on Arctic sea ice and North Atlantic Ocean heat transport. Climate Dynamics. [https://doi.org/10.1007/s00382-019-04840-y](https://doi.org/10.1007/s00382-019-04840-y)
 
+<<<<<<< HEAD
 Fuentes-Franco R., T. Koenigk, 2019: Sensitivity of the Arctic fresh water budget to model resolution. Climate Dynamics 53, 1765–1781. [https://doi.org/10.1007/s00382-019-04735-y](https://doi.org/10.1007/s00382-019-04735-y)
 
 Gonzalez, P., D. Brayshaw, G. Zappa, 2019: The contribution of North Atlantic atmospheric circulation shifts to future wind speed projections for wind power over Europe. Climate Dynamics, 53, 4095–4113. [https://doi.org/10.1007/s00382-019-04776-3](https://doi.org/10.1007/s00382-019-04776-3)
