@@ -183,7 +183,6 @@ Darmaraki, S., Somot, S., Sevault, F., Nabat, P., Cabos Narvaez, W. D., Cavicchi
 
 Docquier, D., J. P. Grist, M. J. Roberts, C. D. Roberts, T. Semmler, L. Ponsoni, F. Massonnet, D. Sidorenko, D. Sein, D. Iovino, T. Fichefet, 2019. Impact of model resolution on Arctic sea ice and North Atlantic Ocean heat transport. Climate Dynamics. [https://doi.org/10.1007/s00382-019-04840-y](https://doi.org/10.1007/s00382-019-04840-y)
 
-<<<<<<< HEAD
 Fuentes-Franco R., T. Koenigk, 2019: Sensitivity of the Arctic fresh water budget to model resolution. Climate Dynamics 53, 1765–1781. [https://doi.org/10.1007/s00382-019-04735-y](https://doi.org/10.1007/s00382-019-04735-y)
 
 Gonzalez, P., D. Brayshaw, G. Zappa, 2019: The contribution of North Atlantic atmospheric circulation shifts to future wind speed projections for wind power over Europe. Climate Dynamics, 53, 4095–4113. [https://doi.org/10.1007/s00382-019-04776-3](https://doi.org/10.1007/s00382-019-04776-3)
