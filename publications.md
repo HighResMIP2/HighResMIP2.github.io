@@ -8,7 +8,7 @@ The following are publications known to include results using CMIP6 HighResMIP m
 
 
 ## Published
-### 2022 (17)
+### 2022 (22)
 
 Athanasiadis, P. J., Ogawa, F., Omrani, N.-E., Keenlyside, N., Schiemann, R., Baker, A.J., Vidale, P.L., Bellucci, A., Ruggieri, P., Haarsma, R., Roberts, M., Roberts, C., Novak, L., Guialdi, S., 2022: Mitigating climate biases in the mid-latitude North Atlantic by increasing model resolution: SST gradients and their relation to blocking and the jet. J. Clim. [https://doi.org/10.1175/JCLI-D-21-0515.1](https://doi.org/10.1175/JCLI-D-21-0515.1).
 
@@ -16,8 +16,14 @@ Baker, A. J., Roberts, M. J., Vidale, P. L., Hodges, K. I., Seddon, J., Vannièr
 
 Bloemendaal, N., de Moel, H., Martinez, A.B., Muis, S., Haigh, I,D., van der Wiel, K., Haarsma, R.J., Ward, P.J., Roberts, M.J., Dullaart, J.C.M, and Aerts, J.C.J.H, 2022: A globally consistent local-scale assessment of future tropical cyclone risk. Science Advances. [https://doi.org/10.1126/sciadv.abm8438](https://doi.org/10.1126/sciadv.abm8438).
 
+Bloomfield, H. C., Brayshaw, D. J., Deakin, M., and Greenwood, D., 2022: Hourly historical and near-future weather and climate variables for energy system modelling, Earth Syst. Sci. Data Discuss., pp.1-26. [https://doi.org/10.5194/essd-14-2749-2022](https://doi.org/10.5194/essd-14-2749-2022).
+
+Craig, M.T., Wohland, J., Stoop, L.P., Kies, A., Pickering, B., Bloomfield, H.C., Browell, J., De Felice, M., Dent, C.J., Deroubaix, A. and Frischmuth, F., 2022. Overcoming the disconnect between energy system and climate modeling. Joule. [https://doi.org/10.1016/j.joule.2022.05.010](https://doi.org/10.1016/j.joule.2022.05.010)
+
 Chen, Q., Ge, F., Jin, Z.,  Lin, Z., 2022: How well do the CMIP6 HighResMIP models simulate precipitation over the Tibetan Plateau?,
 Atmos. Res., [https://doi.org/10.1016/j.atmosres.2022.106393](https://doi.org/10.1016/j.atmosres.2022.106393)
+
+Dorrington, J., Strommen, K., and Fabiano, F., 2022: Quantifying climate model representation of the wintertime Euro-Atlantic circulation using geopotential-jet regimes, Weather Clim. Dynam.,  3, 505–533, 2022. [https://doi.org/10.5194/wcd-3-505-2022](https://doi.org/10.5194/wcd-3-505-2022).
 
 Farneti, R., Stiz, A. & Ssebandeke, J.B. Improvements and persistent biases in the southeast tropical Atlantic in CMIP models. npj Clim Atmos Sci 5, 42 (2022). [https://doi.org/10.1038/s41612-022-00264-4](https://doi.org/10.1038/s41612-022-00264-4).
 
@@ -43,16 +49,14 @@ Priestley, M. D. K., & Catto, J. L., 2022: Improved representation of extratropi
 
 Song, K., Zhao, J., Zhan, R., Tao, L., & Chen, L., 2022: Confidence and uncertainty in simulating tropical cyclone long-term variability using the CMIP6-HighResMIP, Journal of Climate. [https://doi.org/10.1175/JCLI-D-21-0875.1](https://doi.org/10.1175/JCLI-D-21-0875.1).
 
-Tsartsali, E. E., Haarsma, R. J., Athanasiadis, P. J., Bellucci, A., de Vries, H., Drijfhout, S., de Vries, I. E., Putrasahan, D., Roberts, M. J., Sanchez-Gomez, E., Roberts, C. D., 2022: Impact of resolution on the atmosphere-ocean coupling along the Gulf Stream in global high resolution models. Clim. Dyn. [https://doi.org/10.1007/s00382-021-06098-9](https://doi.org/10.1007/s00382-021-06098-9).
+Stoop, L.P., Duijm, E., Feelders, A., Broek, M.v.d. (2021). Detection of Critical Events in Renewable Energy Production Time Series. In: Lemaire, V., Malinowski, S., Bagnall, A., Guyet, T., Tavenard, R., Ifrim, G. (eds) Advanced Analytics and Learning on Temporal Data. AALTD 2021. Lecture Notes in Computer Science(), vol 13114. Springer, Cham. [https://doi.org/10.1007/978-3-030-91445-5_7](https://doi.org/10.1007/978-3-030-91445-5_7)
 
 Tsartsali, E. E., Haarsma, R. J., Athanasiadis, P. J., Bellucci, A., de Vries, H., Drijfhout, S., de Vries, I. E., Putrasahan, D., Roberts, M. J., Sanchez-Gomez, E., Roberts, C. D., 2022: Impact of resolution on the atmosphere-ocean coupling along the Gulf Stream in global high resolution models. Clim. Dyn. [https://doi.org/10.1007/s00382-021-06098-9](https://doi.org/10.1007/s00382-021-06098-9).
 
 Zhao, M., 2022: A Study of AR-, TS-, and MCS-Associated Precipitation and Extreme Precipitation in Present and Warmer Climates. Journal of Climate, 35(2), 479-497. [https://doi.org/10.1175/JCLI-D-21-0145.1](https://doi.org/10.1175/JCLI-D-21-0145.1).
 
-Zhao, M., 2022: A Study of AR-, TS-, and MCS-Associated Precipitation and Extreme Precipitation in Present and Warmer Climates. Journal of Climate, 35(2), 479-497. [https://doi.org/10.1175/JCLI-D-21-0145.1](https://doi.org/10.1175/JCLI-D-21-0145.1).
 
-
-### 2021 (19)
+### 2021 (21)
 Bellucci, A., and Coauthors, 2021: Air-sea interactions over the Gulf Stream in an ensemble of HighResMIP present climate simulations. Clim. Dyn. [https://doi.org/10.1007/s00382-020-05573-z](https://doi.org/10.1007/s00382-020-05573-z).
 
 Grist, J.P., S. A. Josey, B. Sinha, J. L. Catto, M. J. Roberts, A.C. Coward, 2021: Future evolution of an eddy rich ocean leads to enhanced east Atlantic storminess in a coupled model projection. GRL. [https://doi.org/10.1029/2021GL092719](https://doi.org/10.1029/2021GL092719).
@@ -96,7 +100,7 @@ Yamada, Y., Kodama, C., Satoh, M., Sugi, M., Roberts, M. J., Mizuta, R., Noda, A
 Zhang, W., G. Villarini, E. Scoccimarro, M. Roberts, P. L. Vidale, B. Vanniere, L.-P. Caron, D. Putrasahan, C. Roberts, R. Senan, M.-P. Moine, 2021: Tropical Cyclone Precipitation in the HighResMIP Atmosphere-only Experiments of the PRIMAVERA Project. Clim. Dyn. [https://doi.org/10.1007/s00382-021-05707-x](https://doi.org/10.1007/s00382-021-05707-x).
 
 
-### 2020 (5)
+### 2020 (38)
 Bador, M., Boé, J., Terray, L., Alexander, L. V., Bellucci, A., Haarsma, R., Koenigk, T., Moine, M.-P., Lohmann, K., Putrasahan, D. A., Roberts, C., Roberts, M., Scoccimarro, E., Schiemann, R., Seddon, J.,  Senan, R., Valcke, S., Vanniere, B., 2020: Impact of higher spatial atmospheric resolution on precipitation extremes over land in global climate models. JGR Atmos., 125, e2019JD032184. [https://doi.org/10.1029/2019JD032184](https://doi.org/10.1029/2019JD032184)
 
 Balaguru, K., L.R. Leung, L. van Roekel, J.-C. Golaz, P. Ullrich, P.M. Caldwell, S.M. Hagos, B.E. Harrop, and A. Mametjanov. 2020. Characterizing Tropical Cyclones in U.S. DOE’s Energy Exascale Earth System Model Version 1. J. Adv. Mod. Earth Syst., 12. [https://doi.org/10.1029/2019MS002024](https://doi.org/10.1029/2019MS002024).
@@ -174,7 +178,7 @@ Wang, Q., Wekerle, C., Wang, X., Danilov, S., Koldunov, N., Sein, D., et al., 20
 Zhao, M. (2020). Simulations of Atmospheric Rivers, Their Variability, and Response to Global Warming Using GFDL’s New High-Resolution General Circulation Model, Journal of Climate, 33(23), 10287-10303. [https://doi.org/10.1175/JCLI-D-20-0241.1](https://doi.org/10.1175/JCLI-D-20-0241.1).
 
 
-### 2019 (1)
+### 2019 (23)
 Baker, A.J., R. Schiemann, K.I. Hodges, M. Demory, M.S. Mizielinski, M.J. Roberts, L.C. Shaffrey, J. Strachan, and P.L. Vidale, 2019: Enhanced Climate Change Response of Wintertime North Atlantic Circulation, Cyclonic Activity, and Precipitation in a 25-km-Resolution Global Atmospheric Model. J. Climate, 32, 7763–7781. [https://doi.org/10.1175/JCLI-D-19-0054.1](https://doi.org/10.1175/JCLI-D-19-0054.1)
 
 Caldwell, P. M., Mametjanov, A., Tang, Q., Van Roekel, L. P., Golaz, J.‐C., Lin, W. et al. (2019). The DOE E3SM coupled model version 1: Description and results at high resolution. Journal of Advances in Modeling Earth Systems, 11, 4095– 4146. [https://doi.org/10.1029/2019MS001870](https://doi.org/10.1029/2019MS001870).
@@ -222,7 +226,7 @@ Wu, P., M. Roberts, G. Martin, X. Chen, T. Zhou, P. L. Vidale, 2018: The impact 
 Yang, C., Christensen, H.M., Corti S., von Hardenberg J. and Davini P., 2019. The impact of stochastic physics on the El Niño Southern Oscillation in the EC-Earth coupled model. Clim Dyn 53: 2843. [https://doi.org/10.1007/s00382-019-04660-0](https://doi.org/10.1007/s00382-019-04660-0)
 
 
-### 2018
+### 2018 (13)
 Ayarzagüena, B., S. Ineson, N. J. Dunstone, M. P Baldwin and A. A. Scaife, 2018. Intraseasonal effects of El Niño Southern Oscillation on North Atlantic climate. J. Clim. [https://doi.org/10.1175/JCLI-D-18-0097.1](https://doi.org/10.1175/JCLI-D-18-0097.1)
 
 Bloemendaal, N., Muis, S., Haarsma, R.J. et al., 2018: Global modelling of tropical cyclone storm surges using high-resolution forecasts. Clim Dyn. [https://doi.org/10.1007/s00382-018-4430-x](https://doi.org/10.1007/s00382-018-4430-x)
@@ -258,11 +262,7 @@ H. T. Hewitt, M. J. Bell, E. P. Chassignet, A. Czaja, D. Ferreira, S. M. Griffie
 R. J. Haarsma, M. Roberts, P. L. Vidale, C. A. Senior, A. Bellucci, Q. Bao, P. Chang, S. Corti, N. S. Fučkar, V. Guemas, J. von Hardenberg, W. Hazeleger, C. Kodama, T. Koenigk, L. R. Leung, J. Lu, J.-J. Luo, J. Mao, M. S. Mizielinski, R. Mizuta, P. Nobre, M. Satoh, E. Scoccimarro, T. Semmler, J. Small, J.-S. von Storch, 2016: High resolution model intercomparison project (HighResMIP). Geoscientifc Model Development. [https://doi.org/10.5194/gmd-9-4185-2016](https://doi.org/10.5194/gmd-9-4185-2016)
 
 
-## Submitted/in prep (10)
-Bloomfield, H. C., Brayshaw, D. J., Deakin, M., and Greenwood, D., 2022: Hourly historical and near-future weather and climate variables for energy system modelling, Earth Syst. Sci. Data Discuss., in review, [https://doi.org/10.5194/essd-2021-436](https://doi.org/10.5194/essd-2021-436).
-
-Dorrington, J., Strommen, K., and Fabiano, F., 2021: How well does CMIP6 capture the dynamics of Euro-Atlantic weather regimes, and why?, Weather Clim. Dynam. Discuss., in review (Oct 2021). [https://doi.org/10.5194/wcd-2021-71](https://doi.org/10.5194/wcd-2021-71).
-
+## Submitted/in prep (5)
 Haslebacher, C., Demory, M.-E., Demory, B.-O., Sarazin, M., and Vidale, P. L., 2022: Impact of climate change on site characteristics of eight major astronomical observatories using high-resolution global climate projections until 2050. Astronomy and Astrophysics, submitted. arXiv:2208.04918v1.
 
 Lockwood, J., et al., 2022: Using high-resolution global climate models from the PRIMAVERA project to create a European winter windstorm event set. NHESS, submitted (Jan 2022). [https://doi.org/10.5194/nhess-2022-12](https://doi.org/10.5194/nhess-2022-12).
