@@ -4,11 +4,11 @@ title: Publications
 permalink: /about/publications/
 ---
 
-The following are publications known to include results using CMIP6 HighResMIP model simulations and that do not include coauthors from the PRIMAVERA project, or have been published after PRIMAVERA ended (so 2021 onwards). Papers that include PRIMAVERA co-authors can be found at [https://www.primavera-h2020.eu/output/scientific-papers/](https://www.primavera-h2020.eu/output/scientific-papers/)
+The following are publications known to include results using CMIP6 HighResMIP model simulations or derived information. Papers that include PRIMAVERA co-authors can also be found at [https://www.primavera-h2020.eu/output/scientific-papers/](https://www.primavera-h2020.eu/output/scientific-papers/).
 
 
 ## Published
-### 2022 (22)
+### 2022 (24)
 
 Athanasiadis, P. J., Ogawa, F., Omrani, N.-E., Keenlyside, N., Schiemann, R., Baker, A.J., Vidale, P.L., Bellucci, A., Ruggieri, P., Haarsma, R., Roberts, M., Roberts, C., Novak, L., Guialdi, S., 2022: Mitigating climate biases in the mid-latitude North Atlantic by increasing model resolution: SST gradients and their relation to blocking and the jet. J. Clim. [https://doi.org/10.1175/JCLI-D-21-0515.1](https://doi.org/10.1175/JCLI-D-21-0515.1).
 
@@ -35,9 +35,11 @@ Leung, L. R., Boos, W. R., Catto, J. L., DeMott, C., Martin, G. M., Neelin, J. D
 
 Liu, B., Gan, B., Cai, W., Wu, L., Geng, T., Wang, H., et al., 2022: Will increasing climate model resolution be beneficial for ENSO simulation? Geophysical Research Letters, 49, e2021GL096932. [https://doi.org/10.1029/2021GL096932](https://doi.org/10.1029/2021GL096932).
 
+Lockwood, J., et al., 2022: Using high-resolution global climate models from the PRIMAVERA project to create a European winter windstorm event set. Nat. Hazards Earth Syst. Sci., 22, 3585-3606. [https://doi.org/10.5194/nhess-22-3585-2022](https://doi.org/10.5194/nhess-22-3585-2022).
+
 López-Parages, J., and Terray, L., 2022: Tropical North Atlantic Response to ENSO: Sensitivity to Model Spatial Resolution. Journal of Climate 35, 1, 3-16. [https://doi.org/10.1175/JCLI-D-21-0240.1](https://doi.org/10.1175/JCLI-D-21-0240.1).
 
-Moon, Y., Kim, D., Wing, A.A., Camargo, S.J., Zhao, M., Leung, L.R., Roberts, M.J., 2021: An evaluation of tropical cyclone rainfall structure in the HighResMIP simulations against satellite observations. J. Clim., accepted.
+Moon, Y., Kim, D., Wing, A.A., Camargo, S.J., Zhao, M., Leung, L.R., Roberts, M.J., 2022: An evaluation of tropical cyclone rainfall structure in the HighResMIP simulations against satellite observations. J. Clim., 35, 3715-3738. [https://doi.org/10.1175/JCLI-D-21-0564.1](https://doi.org/10.1175/JCLI-D-21-0564.1).
 
 Moreno-Chamarro, E., E., Caron, L.-P., Loosveldt Tomas, S., Gutjahr, O., Moine, M.-P., Putrasahan, D., Roberts, C. D., Roberts, M. J., Senan, R., Terray, L., Tourigny, E., and Vidale, P. L., 2022: Impact of increased resolution on long-standing biases in HighResMIP-PRIMAVERA climate models. Geosci. Model Dev., 15, 269–289, 2022. [https://doi.org/10.5194/gmd-15-269-2022](https://doi.org/10.5194/gmd-15-269-2022).
 
@@ -47,9 +49,13 @@ Paolini, L. F., Athanasiadis, P. J., Ruggieri, P., & Bellucci, A., 2022: The atm
 
 Priestley, M. D. K., & Catto, J. L., 2022: Improved representation of extratropical cyclone structure in HighResMIP models. Geophysical Research Letters, 49, e2021GL096708. [https://doi.org/10.1029/2021GL096708](https://doi.org/10.1029/2021GL096708).
 
+Seo, H., O'Neill, L.W., Bourassa, M.A., Czeja, A., Drushka, K., Edson, J.B., Fox-Kemper, B., Frenger, I., Gille, S.T., Kirtman, B.P., Minobe, S., Pendergrass, A.G., Renault, L., Roberts, M.J., Schneider, N., Small, R.J., Stoffelen, A., Wang, Q., 2022: Ocean Mesoscale and Frontal-scale Ocean-Atmosphere Interactions and Influence on Large-scale Climate: A review. J. Clim., accepted.
+
 Song, K., Zhao, J., Zhan, R., Tao, L., & Chen, L., 2022: Confidence and uncertainty in simulating tropical cyclone long-term variability using the CMIP6-HighResMIP, Journal of Climate. [https://doi.org/10.1175/JCLI-D-21-0875.1](https://doi.org/10.1175/JCLI-D-21-0875.1).
 
 Stoop, L.P., Duijm, E., Feelders, A., Broek, M.v.d. (2021). Detection of Critical Events in Renewable Energy Production Time Series. In: Lemaire, V., Malinowski, S., Bagnall, A., Guyet, T., Tavenard, R., Ifrim, G. (eds) Advanced Analytics and Learning on Temporal Data. AALTD 2021. Lecture Notes in Computer Science(), vol 13114. Springer, Cham. [https://doi.org/10.1007/978-3-030-91445-5_7](https://doi.org/10.1007/978-3-030-91445-5_7)
+
+Tang, Y., Huangfu, J., Huang, R. and Chen, W. (2022): Simulation and projection of tropical cyclone activities over the Western North Pacific by CMIP6 HighResMIP. J. Clim., 35, 4171-4194. [https://doi.org/10.1175/JCLI-D-21-0760.1](https://doi.org/10.1175/JCLI-D-21-0760.1). 
 
 Tsartsali, E. E., Haarsma, R. J., Athanasiadis, P. J., Bellucci, A., de Vries, H., Drijfhout, S., de Vries, I. E., Putrasahan, D., Roberts, M. J., Sanchez-Gomez, E., Roberts, C. D., 2022: Impact of resolution on the atmosphere-ocean coupling along the Gulf Stream in global high resolution models. Clim. Dyn. [https://doi.org/10.1007/s00382-021-06098-9](https://doi.org/10.1007/s00382-021-06098-9).
 
@@ -262,16 +268,14 @@ H. T. Hewitt, M. J. Bell, E. P. Chassignet, A. Czaja, D. Ferreira, S. M. Griffie
 R. J. Haarsma, M. Roberts, P. L. Vidale, C. A. Senior, A. Bellucci, Q. Bao, P. Chang, S. Corti, N. S. Fučkar, V. Guemas, J. von Hardenberg, W. Hazeleger, C. Kodama, T. Koenigk, L. R. Leung, J. Lu, J.-J. Luo, J. Mao, M. S. Mizielinski, R. Mizuta, P. Nobre, M. Satoh, E. Scoccimarro, T. Semmler, J. Small, J.-S. von Storch, 2016: High resolution model intercomparison project (HighResMIP). Geoscientifc Model Development. [https://doi.org/10.5194/gmd-9-4185-2016](https://doi.org/10.5194/gmd-9-4185-2016)
 
 
-## Submitted/in prep (5)
-Haslebacher, C., Demory, M.-E., Demory, B.-O., Sarazin, M., and Vidale, P. L., 2022: Impact of climate change on site characteristics of eight major astronomical observatories using high-resolution global climate projections until 2050. Astronomy and Astrophysics, submitted. arXiv:2208.04918v1.
+## Submitted/in prep (4)
+Docquier, D., Vannitsem, S., Bellucci, A., and Frankignoul, C.: Interactions between ocean heat budget terms in HighResMIP climate models measured by the rate of information transfer, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2022-1340](https://doi.org/10.5194/egusphere-2022-1340), 2022.
 
-Lockwood, J., et al., 2022: Using high-resolution global climate models from the PRIMAVERA project to create a European winter windstorm event set. NHESS, submitted (Jan 2022). [https://doi.org/10.5194/nhess-2022-12](https://doi.org/10.5194/nhess-2022-12).
+Haslebacher, C., Demory, M.-E., Demory, B.-O., Sarazin, M., and Vidale, P. L., 2022: Impact of climate change on site characteristics of eight major astronomical observatories using high-resolution global climate projections until 2050. Astronomy and Astrophysics, submitted. arXiv:2208.04918v1.
 
 Muis, S., et al., 2022: Global projections of storm surges using high-resolution CMIP6 climate models: validation, projected changes, and methodological challenges. Earth's Future, submitted. [https://doi.org/10.1002/essoar.10511919.1](https://doi.org/10.1002/essoar.10511919.1)
 
 Rhoades, A.M., et al., 2021: Asymmetric Emergence of Low-to-No Snow in the American Cordillera. Nature Climate Change, submitted (Dec 2021). [https://doi.org/10.21203/rs.3.rs-969310/v1](https://doi.org/10.21203/rs.3.rs-969310/v1).
-
-Seo, H., O'Neill, L.W., Bourassa, M.A., Czeja, A., Drushka, K., Edson, J.B., Fox-Kemper, B., Frenger, I., Gille, S.T., Kirtman, B.P., Minobe, S., Pendergrass, A.G., Renault, L., Roberts, M.J., Schneider, N., Small, R.J., Stoffelen, A., Wang, Q., 2022: Ocean Mesoscale and Frontal-scale Ocean-Atmosphere Interactions and Influence on Large-scale Climate: A review. J. Clim., in revision.
 
 ## Derived datasets
 Roberts, M. (2019): CMIP6 HighResMIP: Tropical storm tracks. Centre for Environmental Data Analysis, *date of citation*. [http://catalogue.ceda.ac.uk/uuid/e82a62d926d7448696a2b60c1925f811](http://catalogue.ceda.ac.uk/uuid/e82a62d926d7448696a2b60c1925f811).
