@@ -4,7 +4,7 @@ title: Committee
 permalink: /about/committee/
 ---
 
-We are gradually building a committee structure with coordinators to address the following topics:
+We are gradually building a committee structure with new co-leads and coordinators to address the following topics:
 
 * Science questions
 * Experimental design, protocol
