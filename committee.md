@@ -26,15 +26,22 @@ We are gradually building a committee structure with new co-leads and coordinato
 					<listyle="list-style:none;"><a href=""><i class="fab fa-linkedin-in"></i></a></li> -->
 				</ul>
 			</div>
-		</article>
-		<article class="developer-grid">
 			<div class="developer-wrap">
                                 <h3>Kevin Reed</h3>
-				<p>Coordinator - Tools and metrics</p>
+				<p>Co-lead</p>
 				<ul>
 					<li style="list-style:none;"><a href="https://www.stonybrook.edu/experts/profile/kevin-reed"><i class="fa fa-globe"></i></a></li>
 				</ul>
 			</div>
+			<div class="developer-wrap">
+                                <h3>Qing Bao</h3>
+				<p>Co-lead</p>
+				<ul>
+					<li style="list-style:none;"><a href="http://staff.lasg.ac.cn/qbao/index_e.htm"><i class="fa fa-globe"></i></a></li>
+				</ul>
+			</div>
+		</article>
+		<article class="developer-grid">
 			<div class="developer-wrap">
                                 <h3>Ryo Mizuta</h3>
 				<p>Coordinator - Experimental design</p>
@@ -75,13 +82,6 @@ We are gradually building a committee structure with new co-leads and coordinato
 				<p>Coordinator</p>
 				<ul>
 					<li style="list-style:none;"><a href="https://www.umr-lops.fr/en/The-lab/Contacts/Home-pages/Anne-Marie-Treguier"><i class="fa fa-globe"></i></a></li>
-				</ul>
-			</div>
-			<div class="developer-wrap">
-                                <h3>Qing Bao</h3>
-				<p>Coordinator - Science questions</p>
-				<ul>
-					<li style="list-style:none;"><a href="http://staff.lasg.ac.cn/qbao/index_e.htm"><i class="fa fa-globe"></i></a></li>
 				</ul>
 			</div>
 			<div class="developer-wrap">
