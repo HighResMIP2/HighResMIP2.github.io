@@ -4,7 +4,7 @@ title: Committee
 permalink: /about/committee/
 ---
 
-We are gradually building a committee structure with coordinators to address the following topics:
+We are gradually building a committee structure with new co-leads and coordinators to address the following topics:
 
 * Science questions
 * Experimental design, protocol
@@ -28,14 +28,14 @@ We are gradually building a committee structure with coordinators to address the
 			</div>
 			<div class="developer-wrap">
                                 <h3>Kevin Reed</h3>
-				<p>Co-lead, Coordinator - Tools and metrics</p>
+				<p>Co-lead</p>
 				<ul>
 					<li style="list-style:none;"><a href="https://www.stonybrook.edu/experts/profile/kevin-reed"><i class="fa fa-globe"></i></a></li>
 				</ul>
 			</div>
 			<div class="developer-wrap">
                                 <h3>Qing Bao</h3>
-				<p>Co-lead, Coordinator - Science questions</p>
+				<p>Co-lead</p>
 				<ul>
 					<li style="list-style:none;"><a href="http://staff.lasg.ac.cn/qbao/index_e.htm"><i class="fa fa-globe"></i></a></li>
 				</ul>
