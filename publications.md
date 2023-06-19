@@ -4,11 +4,29 @@ title: Publications
 permalink: /about/publications/
 ---
 
-The following are publications known to include results using CMIP6 HighResMIP model simulations or derived information. Papers that include PRIMAVERA co-authors can also be found at [https://www.primavera-h2020.eu/output/scientific-papers/](https://www.primavera-h2020.eu/output/scientific-papers/).
+The following are publications known to include results using CMIP6 HighResMIP model simulations or derived information (or be extremely relevant/related). Papers that include PRIMAVERA co-authors can also be found at [https://www.primavera-h2020.eu/output/scientific-papers/](https://www.primavera-h2020.eu/output/scientific-papers/).
 
 
 ## Published
-### 2022 (24)
+### 2023 (8)
+Akhter, S., Holloway, C.E., Hodges, K. et al, 2023: How well do high-resolution Global Climate Models (GCMs) simulate tropical cyclones in the Bay of Bengal?. Clim Dyn. [https://doi.org/10.1007/s00382-023-06745-3](https://doi.org/10.1007/s00382-023-06745-3)
+
+Barrell, C., Renfrew, I. A., King, J. C., Abel, S. J., & Elvidge, A. D., 2023: Projected changes to wintertime air-sea turbulent heat fluxes over the subpolar North Atlantic Ocean. Earth's Future, 11, e2022EF003337. [https://doi.org/10.1029/2022EF003337](https://doi.org/10.1029/2022EF003337)
+
+Bercos-Hickey, E., Patricola, C. M., Loring, B., & Collins, W. D., 2023. The relationship between African easterly waves and tropical cyclones in historical and future climates in the HighResMIP-PRIMAVERA simulations. J. Geophys. Res.: Atmospheres, 128, e2022JD037471. [https://doi.org/10.1029/2022JD037471](https://doi.org/10.1029/2022JD037471)
+
+Chang, P., Xu, G., Kurian, J. et al, 2023. Uncertain future of sustainable fisheries environment in eastern boundary upwelling zones under climate change. Commun Earth Environ 4, 19. [https://doi.org/10.1038/s43247-023-00681-0](https://doi.org/10.1038/s43247-023-00681-0)
+
+Priestley, M. D. K., & Catto, J. L., 2022: Improved representation of extratropical cyclone structure in HighResMIP models. Geophysical Research Letters, 49, e2021GL096708. [https://doi.org/10.1029/2021GL096708](https://doi.org/10.1029/2021GL096708)
+
+Seo, H., and Coauthors, 2023: Ocean Mesoscale and Frontal-Scale Ocean–Atmosphere Interactions and Influence on Large-Scale Climate: A Review. J. Climate, 36, 1981–2013. [https://doi.org/10.1175/JCLI-D-21-0982.1](https://doi.org/10.1175/JCLI-D-21-0982.1])
+
+Smith, I.H., Williams, P.D. & Schiemann, R., 2023: Clear-air turbulence trends over the North Atlantic in high-resolution climate models. Clim. Dyn. [https://doi.org/10.1007/s00382-023-06694-x](https://doi.org/10.1007/s00382-023-06694-x)
+
+Wang, S., Ma, X., Zhou, S. et al., 2023: Extreme atmospheric rivers in a warming climate. Nat Commun 14, 3219. [https://doi.org/10.1038/s41467-023-38980-x](https://doi.org/10.1038/s41467-023-38980-x)
+
+## Published
+### 2022 (27)
 
 Athanasiadis, P. J., Ogawa, F., Omrani, N.-E., Keenlyside, N., Schiemann, R., Baker, A.J., Vidale, P.L., Bellucci, A., Ruggieri, P., Haarsma, R., Roberts, M., Roberts, C., Novak, L., Guialdi, S., 2022: Mitigating climate biases in the mid-latitude North Atlantic by increasing model resolution: SST gradients and their relation to blocking and the jet. J. Clim. [https://doi.org/10.1175/JCLI-D-21-0515.1](https://doi.org/10.1175/JCLI-D-21-0515.1).
 
@@ -26,6 +44,8 @@ Atmos. Res., [https://doi.org/10.1016/j.atmosres.2022.106393](https://doi.org/10
 Dorrington, J., Strommen, K., and Fabiano, F., 2022: Quantifying climate model representation of the wintertime Euro-Atlantic circulation using geopotential-jet regimes, Weather Clim. Dynam.,  3, 505–533, 2022. [https://doi.org/10.5194/wcd-3-505-2022](https://doi.org/10.5194/wcd-3-505-2022).
 
 Farneti, R., Stiz, A. & Ssebandeke, J.B. Improvements and persistent biases in the southeast tropical Atlantic in CMIP models. npj Clim Atmos Sci 5, 42 (2022). [https://doi.org/10.1038/s41612-022-00264-4](https://doi.org/10.1038/s41612-022-00264-4).
+
+Haslebacher, C., Demory, M.-E., Demory, B.-O., Sarazin, M., and Vidale, P. L., 2022: Impact of climate change on site characteristics of eight major astronomical observatories using high-resolution global climate projections until 2050. Astronomy and Astrophysics, 665. [https://doi.org/10.1051/0004-6361/202142493](https://doi.org/10.1051/0004-6361/202142493).
 
 Hewitt, H., Fox-Kemper, B., Pearson, B. et al., 2022: The small scales of the ocean may hold the key to surprises. Nature Climate Change, 12, 496–499. [https://doi.org/10.1038/s41558-022-01386-6](https://doi.org/10.1038/s41558-022-01386-6).
 
@@ -49,6 +69,8 @@ Paolini, L. F., Athanasiadis, P. J., Ruggieri, P., & Bellucci, A., 2022: The atm
 
 Priestley, M. D. K., & Catto, J. L., 2022: Improved representation of extratropical cyclone structure in HighResMIP models. Geophysical Research Letters, 49, e2021GL096708. [https://doi.org/10.1029/2021GL096708](https://doi.org/10.1029/2021GL096708).
 
+Rhoades, A.M., et al., 2022: Asymmetric Emergence of Low-to-No Snow in the American Cordillera. Nat. Clim. Chang. 12, 1151–1159 (2022). [https://doi.org/10.1038/s41558-022-01518-y](https://doi.org/10.1038/s41558-022-01518-y). 
+
 Seo, H., O'Neill, L.W., Bourassa, M.A., Czeja, A., Drushka, K., Edson, J.B., Fox-Kemper, B., Frenger, I., Gille, S.T., Kirtman, B.P., Minobe, S., Pendergrass, A.G., Renault, L., Roberts, M.J., Schneider, N., Small, R.J., Stoffelen, A., Wang, Q., 2022: Ocean Mesoscale and Frontal-scale Ocean-Atmosphere Interactions and Influence on Large-scale Climate: A review. J. Clim., accepted.
 
 Song, K., Zhao, J., Zhan, R., Tao, L., & Chen, L., 2022: Confidence and uncertainty in simulating tropical cyclone long-term variability using the CMIP6-HighResMIP, Journal of Climate. [https://doi.org/10.1175/JCLI-D-21-0875.1](https://doi.org/10.1175/JCLI-D-21-0875.1).
@@ -62,8 +84,10 @@ Tsartsali, E. E., Haarsma, R. J., Athanasiadis, P. J., Bellucci, A., de Vries, H
 Zhao, M., 2022: A Study of AR-, TS-, and MCS-Associated Precipitation and Extreme Precipitation in Present and Warmer Climates. Journal of Climate, 35(2), 479-497. [https://doi.org/10.1175/JCLI-D-21-0145.1](https://doi.org/10.1175/JCLI-D-21-0145.1).
 
 
-### 2021 (21)
+### 2021 (22)
 Bellucci, A., and Coauthors, 2021: Air-sea interactions over the Gulf Stream in an ensemble of HighResMIP present climate simulations. Clim. Dyn. [https://doi.org/10.1007/s00382-020-05573-z](https://doi.org/10.1007/s00382-020-05573-z).
+
+Dong, T., Dong, W., 2021: Evaluation of extreme precipitation over Asia in CMIP6 models. Clim Dyn 57, 1751–1769. [https://doi.org/10.1007/s00382-021-05773-1][https://doi.org/10.1007/s00382-021-05773-1]
 
 Grist, J.P., S. A. Josey, B. Sinha, J. L. Catto, M. J. Roberts, A.C. Coward, 2021: Future evolution of an eddy rich ocean leads to enhanced east Atlantic storminess in a coupled model projection. GRL. [https://doi.org/10.1029/2021GL092719](https://doi.org/10.1029/2021GL092719).
 
@@ -268,14 +292,12 @@ H. T. Hewitt, M. J. Bell, E. P. Chassignet, A. Czaja, D. Ferreira, S. M. Griffie
 R. J. Haarsma, M. Roberts, P. L. Vidale, C. A. Senior, A. Bellucci, Q. Bao, P. Chang, S. Corti, N. S. Fučkar, V. Guemas, J. von Hardenberg, W. Hazeleger, C. Kodama, T. Koenigk, L. R. Leung, J. Lu, J.-J. Luo, J. Mao, M. S. Mizielinski, R. Mizuta, P. Nobre, M. Satoh, E. Scoccimarro, T. Semmler, J. Small, J.-S. von Storch, 2016: High resolution model intercomparison project (HighResMIP). Geoscientifc Model Development. [https://doi.org/10.5194/gmd-9-4185-2016](https://doi.org/10.5194/gmd-9-4185-2016)
 
 
-## Submitted/in prep (4)
+## Submitted/in prep (3)
 Docquier, D., Vannitsem, S., Bellucci, A., and Frankignoul, C.: Interactions between ocean heat budget terms in HighResMIP climate models measured by the rate of information transfer, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2022-1340](https://doi.org/10.5194/egusphere-2022-1340), 2022.
-
-Haslebacher, C., Demory, M.-E., Demory, B.-O., Sarazin, M., and Vidale, P. L., 2022: Impact of climate change on site characteristics of eight major astronomical observatories using high-resolution global climate projections until 2050. Astronomy and Astrophysics, submitted. arXiv:2208.04918v1.
 
 Muis, S., et al., 2022: Global projections of storm surges using high-resolution CMIP6 climate models: validation, projected changes, and methodological challenges. Earth's Future, submitted. [https://doi.org/10.1002/essoar.10511919.1](https://doi.org/10.1002/essoar.10511919.1)
 
-Rhoades, A.M., et al., 2021: Asymmetric Emergence of Low-to-No Snow in the American Cordillera. Nature Climate Change, submitted (Dec 2021). [https://doi.org/10.21203/rs.3.rs-969310/v1](https://doi.org/10.21203/rs.3.rs-969310/v1).
+Seddon, J., et al., 2023: The analysis of large-volume multi-institute climate model output at a Central Analysis Facility. GMD, submitted.
 
 ## Derived datasets
 Roberts, M. (2019): CMIP6 HighResMIP: Tropical storm tracks. Centre for Environmental Data Analysis, *date of citation*. [http://catalogue.ceda.ac.uk/uuid/e82a62d926d7448696a2b60c1925f811](http://catalogue.ceda.ac.uk/uuid/e82a62d926d7448696a2b60c1925f811).
