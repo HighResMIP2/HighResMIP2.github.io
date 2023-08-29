@@ -8,14 +8,22 @@ The following are publications known to include results using CMIP6 HighResMIP m
 
 
 ## Published
-### 2023 (8)
+### 2023 (11)
 Akhter, S., Holloway, C.E., Hodges, K. et al, 2023: How well do high-resolution Global Climate Models (GCMs) simulate tropical cyclones in the Bay of Bengal?. Clim Dyn. [https://doi.org/10.1007/s00382-023-06745-3](https://doi.org/10.1007/s00382-023-06745-3)
+
+An, B., Yu, Y., Hewitt, H. et al, 2023: The benefits of high-resolution models in simulating the Kuroshio Extension and its long-term changes. Clim. Dyn. [https://doi.org/10.1007/s00382-023-06862-z](https://doi.org/10.1007/s00382-023-06862-z)
 
 Barrell, C., Renfrew, I. A., King, J. C., Abel, S. J., & Elvidge, A. D., 2023: Projected changes to wintertime air-sea turbulent heat fluxes over the subpolar North Atlantic Ocean. Earth's Future, 11, e2022EF003337. [https://doi.org/10.1029/2022EF003337](https://doi.org/10.1029/2022EF003337)
 
 Bercos-Hickey, E., Patricola, C. M., Loring, B., & Collins, W. D., 2023. The relationship between African easterly waves and tropical cyclones in historical and future climates in the HighResMIP-PRIMAVERA simulations. J. Geophys. Res.: Atmospheres, 128, e2022JD037471. [https://doi.org/10.1029/2022JD037471](https://doi.org/10.1029/2022JD037471)
 
 Chang, P., Xu, G., Kurian, J. et al, 2023. Uncertain future of sustainable fisheries environment in eastern boundary upwelling zones under climate change. Commun Earth Environ 4, 19. [https://doi.org/10.1038/s43247-023-00681-0](https://doi.org/10.1038/s43247-023-00681-0)
+
+Fu, Z.-H., Zhan, R., Zhao, J., Yamada, Y., & Song, K., 2023: Future projections of multiple tropical cyclone events in the Northern Hemisphere in the CMIP6-HighResMIP models. Geophys. Res. Let., 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064)
+
+Michalek, A. T., Villarini, G., Kim, T., Quintero, F., Krajewski, W. F., & Scoccimarro, E., 2023: Evaluation of CMIP6 HighResMIP for hydrologic modeling of annual maximum discharge in Iowa. Water Resources Research, 59, e2022WR034166. [https://doi.org/10.1029/2022WR034166](https://doi.org/10.1029/2022WR034166)
+
+Michel, S.L.L., von der Heydt, A.S., van Westen, R.M. et al, 2023: Increased wintertime European atmospheric blocking frequencies in General Circulation Models with an eddy-permitting ocean. npj Clim. Atmos. Sci. 6, 50. [https://doi.org/10.1038/s41612-023-00372-9](https://doi.org/10.1038/s41612-023-00372-9)
 
 Priestley, M. D. K., & Catto, J. L., 2022: Improved representation of extratropical cyclone structure in HighResMIP models. Geophysical Research Letters, 49, e2021GL096708. [https://doi.org/10.1029/2021GL096708](https://doi.org/10.1029/2021GL096708)
 
@@ -295,9 +303,11 @@ R. J. Haarsma, M. Roberts, P. L. Vidale, C. A. Senior, A. Bellucci, Q. Bao, P. C
 ## Submitted/in prep (3)
 Docquier, D., Vannitsem, S., Bellucci, A., and Frankignoul, C.: Interactions between ocean heat budget terms in HighResMIP climate models measured by the rate of information transfer, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2022-1340](https://doi.org/10.5194/egusphere-2022-1340), 2022.
 
-Muis, S., et al., 2022: Global projections of storm surges using high-resolution CMIP6 climate models: validation, projected changes, and methodological challenges. Earth's Future, submitted. [https://doi.org/10.1002/essoar.10511919.1](https://doi.org/10.1002/essoar.10511919.1)
+Muis, S., et al., 2022: Global projections of storm surges using high-resolution CMIP6 climate models: validation, projected changes, and methodological challenges. Earth's Future, accepted. [https://doi.org/10.1002/essoar.10511919.1](https://doi.org/10.1002/essoar.10511919.1)
 
-Seddon, J., et al., 2023: The analysis of large-volume multi-institute climate model output at a Central Analysis Facility. GMD, submitted.
+Seddon, J., et al., 2023: The analysis of large-volume multi-institute climate model output at a Central Analysis Facility. GMD, revised.
+
+Selivanova, J., Iovino, D., and Cocetta, F.: Past and future of the Arctic sea ice in HighResMIP climate models, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-1411, 2023.
 
 ## Derived datasets
 Roberts, M. (2019): CMIP6 HighResMIP: Tropical storm tracks. Centre for Environmental Data Analysis, *date of citation*. [http://catalogue.ceda.ac.uk/uuid/e82a62d926d7448696a2b60c1925f811](http://catalogue.ceda.ac.uk/uuid/e82a62d926d7448696a2b60c1925f811).
