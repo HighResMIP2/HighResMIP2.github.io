@@ -25,6 +25,8 @@ Michalek, A. T., Villarini, G., Kim, T., Quintero, F., Krajewski, W. F., & Scocc
 
 Michel, S.L.L., von der Heydt, A.S., van Westen, R.M. et al, 2023: Increased wintertime European atmospheric blocking frequencies in General Circulation Models with an eddy-permitting ocean. npj Clim. Atmos. Sci. 6, 50. [https://doi.org/10.1038/s41612-023-00372-9](https://doi.org/10.1038/s41612-023-00372-9)
 
+Priestley, M. D. K., & Catto, J. L., 2022: Improved representation of extratropical cyclone structure in HighResMIP models. Geophysical Research Letters, 49, e2021GL096708. [https://doi.org/10.1029/2021GL096708](https://doi.org/10.1029/2021GL096708)
+
 Seo, H., and Coauthors, 2023: Ocean Mesoscale and Frontal-Scale Ocean–Atmosphere Interactions and Influence on Large-Scale Climate: A Review. J. Climate, 36, 1981–2013. [https://doi.org/10.1175/JCLI-D-21-0982.1](https://doi.org/10.1175/JCLI-D-21-0982.1])
 
 Smith, I.H., Williams, P.D. & Schiemann, R., 2023: Clear-air turbulence trends over the North Atlantic in high-resolution climate models. Clim. Dyn. [https://doi.org/10.1007/s00382-023-06694-x](https://doi.org/10.1007/s00382-023-06694-x)
