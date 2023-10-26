@@ -14,3 +14,4 @@ We are holding a workshop between HighResMIP and the EU <a href="https://eerie-p
 
 ### 26/10/2023
 The HighResMIP-EERIE workshop will be held on Wed 8th Nov at 1-4pm GMT (2-5pm CET). The agenda can be found at: <a href="https://docs.google.com/document/d/1Y7mw4yZ6mYIXKLZwjQpKPIvaIttVdF-T/edit"> HighResMIP-EERIE workshop </a>. The webex link for the workshop can be found within the document.
+
