@@ -8,8 +8,10 @@ The following are publications known to include results using CMIP6 HighResMIP m
 
 
 ## Published
-### 2023 (11)
+### 2023 (14)
 Akhter, S., Holloway, C.E., Hodges, K. et al, 2023: How well do high-resolution Global Climate Models (GCMs) simulate tropical cyclones in the Bay of Bengal?. Clim Dyn. [https://doi.org/10.1007/s00382-023-06745-3](https://doi.org/10.1007/s00382-023-06745-3)
+
+Ali, H., Fowler, H. J., Vanniere, B., & Roberts, M. J., 2023: Fewer, but more intense, future Tropical Storms over the Ganges and Mekong basins. Geophysical Research Letters, 50, e2023GL104973. [https://doi.org/10.1029/2023GL104973](https://doi.org/10.1029/2023GL104973)
 
 An, B., Yu, Y., Hewitt, H. et al, 2023: The benefits of high-resolution models in simulating the Kuroshio Extension and its long-term changes. Clim. Dyn. [https://doi.org/10.1007/s00382-023-06862-z](https://doi.org/10.1007/s00382-023-06862-z)
 
@@ -21,9 +23,13 @@ Chang, P., Xu, G., Kurian, J. et al, 2023. Uncertain future of sustainable fishe
 
 Fu, Z.-H., Zhan, R., Zhao, J., Yamada, Y., & Song, K., 2023: Future projections of multiple tropical cyclone events in the Northern Hemisphere in the CMIP6-HighResMIP models. Geophys. Res. Let., 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064)
 
+Jackson, L.C., Hewitt, H.T., Bruciaferri, D., Calvert, D. , Graham, T., Guiavarc’h, C., Menary, M.B., New, A.L., Roberts, M. and Storkey, D., 2023: Challenges simulating the AMOC in climate models. Phil. Trans. R. Soc. A.3812022018720220187. [https://doi.org/10.1098/rsta.2022.0187](https://doi.org/10.1098/rsta.2022.0187)
+
 Michalek, A. T., Villarini, G., Kim, T., Quintero, F., Krajewski, W. F., & Scoccimarro, E., 2023: Evaluation of CMIP6 HighResMIP for hydrologic modeling of annual maximum discharge in Iowa. Water Resources Research, 59, e2022WR034166. [https://doi.org/10.1029/2022WR034166](https://doi.org/10.1029/2022WR034166)
 
 Michel, S.L.L., von der Heydt, A.S., van Westen, R.M. et al, 2023: Increased wintertime European atmospheric blocking frequencies in General Circulation Models with an eddy-permitting ocean. npj Clim. Atmos. Sci. 6, 50. [https://doi.org/10.1038/s41612-023-00372-9](https://doi.org/10.1038/s41612-023-00372-9)
+
+Mishra, A. K., Jangir, B., & Strobach, E. (2023). Does increasing climate model horizontal resolution be beneficial for the Mediterranean region?: Multimodel evaluation framework for High-Resolution Model Intercomparison Project. Journal of Geophysical Research: Atmospheres, 128, e2022JD037812. [https://doi.org/10.1029/2022JD037812](https://doi.org/10.1029/2022JD037812)
 
 Priestley, M. D. K., & Catto, J. L., 2022: Improved representation of extratropical cyclone structure in HighResMIP models. Geophysical Research Letters, 49, e2021GL096708. [https://doi.org/10.1029/2021GL096708](https://doi.org/10.1029/2021GL096708)
 
