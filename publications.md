@@ -8,7 +8,7 @@ The following are publications known to include results using CMIP6 HighResMIP m
 
 
 ## Published
-### 2023 (14)
+### 2023 (16)
 Akhter, S., Holloway, C.E., Hodges, K. et al, 2023: How well do high-resolution Global Climate Models (GCMs) simulate tropical cyclones in the Bay of Bengal?. Clim Dyn. [https://doi.org/10.1007/s00382-023-06745-3](https://doi.org/10.1007/s00382-023-06745-3)
 
 Ali, H., Fowler, H. J., Vanniere, B., & Roberts, M. J., 2023: Fewer, but more intense, future Tropical Storms over the Ganges and Mekong basins. Geophysical Research Letters, 50, e2023GL104973. [https://doi.org/10.1029/2023GL104973](https://doi.org/10.1029/2023GL104973)
@@ -33,7 +33,9 @@ Mishra, A. K., Jangir, B., & Strobach, E. (2023). Does increasing climate model 
 
 Priestley, M. D. K., & Catto, J. L., 2022: Improved representation of extratropical cyclone structure in HighResMIP models. Geophysical Research Letters, 49, e2021GL096708. [https://doi.org/10.1029/2021GL096708](https://doi.org/10.1029/2021GL096708)
 
-Seo, H., and Coauthors, 2023: Ocean Mesoscale and Frontal-Scale Ocean–Atmosphere Interactions and Influence on Large-Scale Climate: A Review. J. Climate, 36, 1981–2013. [https://doi.org/10.1175/JCLI-D-21-0982.1](https://doi.org/10.1175/JCLI-D-21-0982.1])
+Seddon, J., Stephens, A., Mizielinski, M. S., Vidale, P. L., and Roberts, M. J., 2023: Technology to aid the analysis of large-volume multi-institute climate model output at a central analysis facility (PRIMAVERA Data Management Tool V2.10): Geosci. Model Dev., 16, 6689-6700. [https://doi.org/10.5194/gmd-16-6689-2023](https://doi.org/10.5194/gmd-16-6689-2023)
+
+Seo, H., and Coauthors, 2023: Ocean Mesoscale and Frontal-Scale Ocean-Atmosphere Interactions and Influence on Large-Scale Climate: A Review. J. Climate, 36, 1981-2013. [https://doi.org/10.1175/JCLI-D-21-0982.1](https://doi.org/10.1175/JCLI-D-21-0982.1])
 
 Smith, I.H., Williams, P.D. & Schiemann, R., 2023: Clear-air turbulence trends over the North Atlantic in high-resolution climate models. Clim. Dyn. [https://doi.org/10.1007/s00382-023-06694-x](https://doi.org/10.1007/s00382-023-06694-x)
 
