@@ -7,7 +7,7 @@ permalink: /experiments/experiment_cmip7/
 We are developing an update to the HighResMIPv1 experimental design towards CMIP7. The main differences are in the atmosphere-only simulations, and extending the coupled future simulations to 2100. The exact value for "present" in the following is undecided and will be influenced by CMIP7, likely around 2022/23.
 
 ### HighResMIP CMIP7 protocol
-The HighResMIPv2 protocol towards CMIP7 is being developed, as well as the new output requirements for the Data Request. The details are still under discussion, with an aim for a full proposal by end-2023. Below is a short outline of the current proposal.
+The HighResMIPv2 protocol towards CMIP7 is being developed, as well as the new output requirements for the Data Request. The details are still under discussion, with an aim for a full proposal by end-2023. Below is a short outline of the current proposal, with an illustration at the bottom.
 
 ### Tier 1a: Forced-atmosphere runs 1980-present
 Experiment name: **highresSST-present**: Using ESA CCI forcing for SST and sea-ice (daily, 0.05 degree, updated to 2022 currently). 
@@ -43,4 +43,6 @@ HighResMIP philosophy: If tuning is necessary it should be well documented to en
 ### Further proposed targeted experiments
 Further sensitivity experiments are possible and await suggestions:
 
- 
+### Schematic of HighResMIP CMIP7 simulation design
+
+<a href="/assets/images/documents/highresmip_simulations_cmip7.png"> highresmip_simulations_cmip7 </a>
