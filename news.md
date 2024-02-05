@@ -18,5 +18,5 @@ The HighResMIP-EERIE workshop will be held on Wed 8th Nov at 1-4pm GMT (2-5pm CE
 ### 29/11/2023
 The HighResMIP-EERIE workshop was a successful discussion of the opportunities offered by some new simulations, as well as showing the exciting science still coming from the CMIP6 HighResMIP (and other high resolution global) simulations. The minutes will appear in the same link as the agenda in the post above.
 
-## 29/11/2023
+### 29/11/2023
 HighResMIP has been asked to provide some slides for several upcoming meetings - for a CMIP talk at an IPCC pavilion event on 2nd Dec, at a CMIP panel meeting on 5th Dec and at a CMIP townhall meeting during AGU on 12th Dec at 1pm. The slides will be made available here once completed.
