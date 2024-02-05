@@ -8,7 +8,10 @@ The following are publications known to include results using CMIP6 HighResMIP m
 
 
 ## Published
-### 2023 (16)
+### 2024 ()
+
+
+### 2023 (20)
 Akhter, S., Holloway, C.E., Hodges, K. et al, 2023: How well do high-resolution Global Climate Models (GCMs) simulate tropical cyclones in the Bay of Bengal?. Clim Dyn. [https://doi.org/10.1007/s00382-023-06745-3](https://doi.org/10.1007/s00382-023-06745-3)
 
 Ali, H., Fowler, H. J., Vanniere, B., & Roberts, M. J., 2023: Fewer, but more intense, future Tropical Storms over the Ganges and Mekong basins. Geophysical Research Letters, 50, e2023GL104973. [https://doi.org/10.1029/2023GL104973](https://doi.org/10.1029/2023GL104973)
@@ -18,6 +21,10 @@ An, B., Yu, Y., Hewitt, H. et al, 2023: The benefits of high-resolution models i
 Barrell, C., Renfrew, I. A., King, J. C., Abel, S. J., & Elvidge, A. D., 2023: Projected changes to wintertime air-sea turbulent heat fluxes over the subpolar North Atlantic Ocean. Earth's Future, 11, e2022EF003337. [https://doi.org/10.1029/2022EF003337](https://doi.org/10.1029/2022EF003337)
 
 Bercos-Hickey, E., Patricola, C. M., Loring, B., & Collins, W. D., 2023. The relationship between African easterly waves and tropical cyclones in historical and future climates in the HighResMIP-PRIMAVERA simulations. J. Geophys. Res.: Atmospheres, 128, e2022JD037471. [https://doi.org/10.1029/2022JD037471](https://doi.org/10.1029/2022JD037471)
+
+Camargo, S.J., H. Murakami, N. Bloemendaal, S. Chand, M.S. Deshpande, C. Dominguez-Sarmiento, J.J. González-Alemán, T.R. Knutson, I-I Lin, I.-J. Moon, C.M. Patricola, K.A. Reed, M.J. Roberts, E. Scoccimarro, F. Tam, E.J. Wallace, L. Wu, Y. Yamada, W. Zhang, and H. Zhao, 2023: An Update on the Influence of Natural Climate Variability and Anthropogenic Climate Change on Tropical Cyclones. Tropical Cyclone Research and Review, 12, 216-239. [https://doi.org/10.1016/j.tcrr.2023.10.001](https://doi.org/10.1016/j.tcrr.2023.10.001)
+
+Cavicchia, L., Scoccimarro, E., Ascenso, G., Castelletti, A., Giuliani, M., & Gualdi, S., 2023. Tropical cyclone genesis potential indices in a new high-resolution climate models ensemble: Limitations and way forward. Geophysical Research Letters, 50, e2023GL103001. [https://doi.org/10.1029/2023GL103001](https://doi.org/10.1029/2023GL103001)
 
 Chang, P., Xu, G., Kurian, J. et al, 2023. Uncertain future of sustainable fisheries environment in eastern boundary upwelling zones under climate change. Commun Earth Environ 4, 19. [https://doi.org/10.1038/s43247-023-00681-0](https://doi.org/10.1038/s43247-023-00681-0)
 
@@ -30,6 +37,10 @@ Michalek, A. T., Villarini, G., Kim, T., Quintero, F., Krajewski, W. F., & Scocc
 Michel, S.L.L., von der Heydt, A.S., van Westen, R.M. et al, 2023: Increased wintertime European atmospheric blocking frequencies in General Circulation Models with an eddy-permitting ocean. npj Clim. Atmos. Sci. 6, 50. [https://doi.org/10.1038/s41612-023-00372-9](https://doi.org/10.1038/s41612-023-00372-9)
 
 Mishra, A. K., Jangir, B., & Strobach, E. (2023). Does increasing climate model horizontal resolution be beneficial for the Mediterranean region?: Multimodel evaluation framework for High-Resolution Model Intercomparison Project. Journal of Geophysical Research: Atmospheres, 128, e2022JD037812. [https://doi.org/10.1029/2022JD037812](https://doi.org/10.1029/2022JD037812)
+
+Muis, S., Aerts, J. C. J. H., Á. Antolínez, J. A., Dullaart, J. C., Duong, T. M., Erikson, L., et al., 2023: Global projections of storm surges using high-resolution CMIP6 climate models. Earth's Future, 11, e2023EF003479. [https://doi.org/10.1029/2023EF003479](https://doi.org/10.1029/2023EF003479)
+
+Patrizio, C. R., P. J. Athanasiadis, C. Frankignoul, D. Iovino, S. Masina, L. Famooss Paolini, and S. Gualdi, 2023: Improved Extratropical North Atlantic Atmosphere–Ocean Variability with Increasing Ocean Model Resolution. J. Climate, 36, 8403–8424. [https://doi.org/10.1175/JCLI-D-23-0230.1](https://doi.org/10.1175/JCLI-D-23-0230.1)
 
 Priestley, M. D. K., & Catto, J. L., 2022: Improved representation of extratropical cyclone structure in HighResMIP models. Geophysical Research Letters, 49, e2021GL096708. [https://doi.org/10.1029/2021GL096708](https://doi.org/10.1029/2021GL096708)
 
@@ -67,7 +78,7 @@ Hewitt, H., Fox-Kemper, B., Pearson, B. et al., 2022: The small scales of the oc
 
 Hodson, D., Bretonnière, P.-A., Cassou, C., Davini, P., Klingaman, N., Lohmann, K., Lopez-Parages, J., Martín-Rey, M., Moine, M.-P., Monerie, P.-A., Putrasahan, D. A., Roberts, C. D., Robson, J., Ruprich-Robert, Y., Sanchez-Gomez, E., Seddon, J. and Senan, R., 2022: Coupled climate response to Atlantic Multidecadal Variability in a multi-model multi-resolution ensemble. Clim. Dyn. ISSN 0930-7575. [https://link.springer.com/article/10.1007/s00382-022-06157-9](https://link.springer.com/article/10.1007/s00382-022-06157-9).
 
-Leung, L. R., Boos, W. R., Catto, J. L., DeMott, C., Martin, G. M., Neelin, J. D., O’Brien, T. A., Xie, S., Feng, Z., Klingaman, N. P., Kuo, Y., Lee, R. W., Martinez-Villalobos, C., Vishnu, S., Priestley, M., Tao, C., & Zhou, Y., 2022: Exploratory precipitation metrics: spatiotemporal characteristics, process-oriented, and phenomena-based, Journal of Climate (published online ahead of print 2022). [https://doi.org/10.1175/JCLI-D-19-0137.1](https://doi.org/10.1175/JCLI-D-19-0137.1).
+Leung, L. R., Boos, W. R., Catto, J. L., DeMott, C., Martin, G. M., Neelin, J. D., O’Brien, T. A., Xie, S., Feng, Z., Klingaman, N. P., Kuo, Y., Lee, R. W., Martinez-Villalobos, C., Vishnu, S., Priestley, M., Tao, C., & Zhou, Y., 2022: Exploratory precipitation metrics: spatiotemporal characteristics, process-oriented, and phenomena-based, Journal of Climate (published online ahead of print 2022). [https://doi.org/10.1175/JCLI-D-21-0590.1](https://doi.org/10.1175/JCLI-D-21-0590.1).
 
 Liu, B., Gan, B., Cai, W., Wu, L., Geng, T., Wang, H., et al., 2022: Will increasing climate model resolution be beneficial for ENSO simulation? Geophysical Research Letters, 49, e2021GL096932. [https://doi.org/10.1029/2021GL096932](https://doi.org/10.1029/2021GL096932).
 
@@ -87,8 +98,6 @@ Priestley, M. D. K., & Catto, J. L., 2022: Improved representation of extratropi
 
 Rhoades, A.M., et al., 2022: Asymmetric Emergence of Low-to-No Snow in the American Cordillera. Nat. Clim. Chang. 12, 1151–1159 (2022). [https://doi.org/10.1038/s41558-022-01518-y](https://doi.org/10.1038/s41558-022-01518-y). 
 
-Seo, H., O'Neill, L.W., Bourassa, M.A., Czeja, A., Drushka, K., Edson, J.B., Fox-Kemper, B., Frenger, I., Gille, S.T., Kirtman, B.P., Minobe, S., Pendergrass, A.G., Renault, L., Roberts, M.J., Schneider, N., Small, R.J., Stoffelen, A., Wang, Q., 2022: Ocean Mesoscale and Frontal-scale Ocean-Atmosphere Interactions and Influence on Large-scale Climate: A review. J. Clim., accepted.
-
 Song, K., Zhao, J., Zhan, R., Tao, L., & Chen, L., 2022: Confidence and uncertainty in simulating tropical cyclone long-term variability using the CMIP6-HighResMIP, Journal of Climate. [https://doi.org/10.1175/JCLI-D-21-0875.1](https://doi.org/10.1175/JCLI-D-21-0875.1).
 
 Stoop, L.P., Duijm, E., Feelders, A., Broek, M.v.d. (2021). Detection of Critical Events in Renewable Energy Production Time Series. In: Lemaire, V., Malinowski, S., Bagnall, A., Guyet, T., Tavenard, R., Ifrim, G. (eds) Advanced Analytics and Learning on Temporal Data. AALTD 2021. Lecture Notes in Computer Science(), vol 13114. Springer, Cham. [https://doi.org/10.1007/978-3-030-91445-5_7](https://doi.org/10.1007/978-3-030-91445-5_7)
@@ -103,7 +112,7 @@ Zhao, M., 2022: A Study of AR-, TS-, and MCS-Associated Precipitation and Extrem
 ### 2021 (22)
 Bellucci, A., and Coauthors, 2021: Air-sea interactions over the Gulf Stream in an ensemble of HighResMIP present climate simulations. Clim. Dyn. [https://doi.org/10.1007/s00382-020-05573-z](https://doi.org/10.1007/s00382-020-05573-z).
 
-Dong, T., Dong, W., 2021: Evaluation of extreme precipitation over Asia in CMIP6 models. Clim Dyn 57, 1751–1769. [https://doi.org/10.1007/s00382-021-05773-1][https://doi.org/10.1007/s00382-021-05773-1]
+Dong, T., Dong, W., 2021: Evaluation of extreme precipitation over Asia in CMIP6 models. Clim Dyn 57, 1751–1769. [https://doi.org/10.1007/s00382-021-05773-1](https://doi.org/10.1007/s00382-021-05773-1)
 
 Grist, J.P., S. A. Josey, B. Sinha, J. L. Catto, M. J. Roberts, A.C. Coward, 2021: Future evolution of an eddy rich ocean leads to enhanced east Atlantic storminess in a coupled model projection. GRL. [https://doi.org/10.1029/2021GL092719](https://doi.org/10.1029/2021GL092719).
 
@@ -308,25 +317,21 @@ H. T. Hewitt, M. J. Bell, E. P. Chassignet, A. Czaja, D. Ferreira, S. M. Griffie
 R. J. Haarsma, M. Roberts, P. L. Vidale, C. A. Senior, A. Bellucci, Q. Bao, P. Chang, S. Corti, N. S. Fučkar, V. Guemas, J. von Hardenberg, W. Hazeleger, C. Kodama, T. Koenigk, L. R. Leung, J. Lu, J.-J. Luo, J. Mao, M. S. Mizielinski, R. Mizuta, P. Nobre, M. Satoh, E. Scoccimarro, T. Semmler, J. Small, J.-S. von Storch, 2016: High resolution model intercomparison project (HighResMIP). Geoscientifc Model Development. [https://doi.org/10.5194/gmd-9-4185-2016](https://doi.org/10.5194/gmd-9-4185-2016)
 
 
-## Submitted/in prep (3)
+## Submitted/in prep (2)
 Docquier, D., Vannitsem, S., Bellucci, A., and Frankignoul, C.: Interactions between ocean heat budget terms in HighResMIP climate models measured by the rate of information transfer, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2022-1340](https://doi.org/10.5194/egusphere-2022-1340), 2022.
-
-Muis, S., et al., 2022: Global projections of storm surges using high-resolution CMIP6 climate models: validation, projected changes, and methodological challenges. Earth's Future, accepted. [https://doi.org/10.1002/essoar.10511919.1](https://doi.org/10.1002/essoar.10511919.1)
-
-Seddon, J., et al., 2023: The analysis of large-volume multi-institute climate model output at a Central Analysis Facility. GMD, revised.
 
 Selivanova, J., Iovino, D., and Cocetta, F.: Past and future of the Arctic sea ice in HighResMIP climate models, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-1411, 2023.
 
 ## Derived datasets
 Roberts, M. (2019): CMIP6 HighResMIP: Tropical storm tracks. Centre for Environmental Data Analysis, *date of citation*. [http://catalogue.ceda.ac.uk/uuid/e82a62d926d7448696a2b60c1925f811](http://catalogue.ceda.ac.uk/uuid/e82a62d926d7448696a2b60c1925f811).
 
-Global water level change indicators from 1950 to 2050 derived from HighResMIP climate projections: [https://cds-dev.copernicus-climate.eu/cdsapp#!/dataset/sis-water-level-change-indicators-cmip6](https://cds-dev.copernicus-climate.eu/cdsapp#!/dataset/sis-water-level-change-indicators-cmip6).
+Muis, S., Irazoqui Apecechea, M., Antolínez, J. A. A., Verlaan, M., Yan, K., Dullaart, J., et al. (2022a). Global sea level change indicators from 1950 to 2050 derived from reanalysis and high resolution CMIP6 climate projections [Dataset]. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). https://doi.org/10.24381/cds.6edf04e0
 
-Winter windstorm dataset from Lockwood et al. (2022).
+Muis, S., Irazoqui Apecechea, M., Antolínez, J. A. A., Verlaan, M., Yan, K., Dullaart, J., et al. (2022b). Global sea level change time series from 1950 to 2050 derived from reanalysis and high resolution CMIP6 climate projections [Dataset]. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). https://doi.org/10.24381/cds.a6d42d60
+
+Lockwood, J. F., Guentchev, G., Brown, S. J, Palin, E. J., Roberts, M. J., and Thornton, H. E., 2022: PRIMAVERA European winter windstorm event set, Zenodo [data set]. [https://doi.org/10.5281/zenodo.6492182](https://doi.org/10.5281/zenodo.6492182).
 
 Synthetic TC track datasets from Bloemendaal et al. (2022). [https://doi.org/10.4121/uuid:82c1dc0d-5485-43d8-901a-ce7f26cda35d](https://doi.org/10.4121/uuid:82c1dc0d-5485-43d8-901a-ce7f26cda35d); [https://doi.org/10.4121/uuid:779b9dfd-b0ff-4531-8833-aaa9c0cf6b5a](https://doi.org/10.4121/uuid:779b9dfd-b0ff-4531-8833-aaa9c0cf6b5a); [https://doi.org/10.4121/14237678.v1](https://doi.org/10.4121/14237678.v1); [https://doi.org/10.4121/14510817.v1](https://doi.org/10.4121/14510817.v1)
-
-
 
 ## HighResMIP protocol citations:
 
