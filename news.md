@@ -6,6 +6,9 @@ permalink: /news/
 
 News on HighResMIP
 
+### 03/03/2025
+The HighResMIP2 paper is finally published in GMD, many thanks to all the co-authors. We now need to get some groups to perform the simulations as part of CMIP7! We will update the website with advice on CMIP7 forcings once they become available.
+
 ### 27/08/2024
 The HighResMIP2 manuscript has (finally) been submitted to GMD, into the CMIP7 special issue. The preprint is <a href="https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2582/"> here </a>. Please feel free to comment on it while it is open on the GMD Discussions. Many thanks to all the contributors over the last several years to get us to this point.
 
