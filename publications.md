@@ -8,21 +8,25 @@ The following are publications known to include results using CMIP6 HighResMIP m
 
 
 ## Published
-### 2025 (3)
+### 2025 (5)
 Li, W., Zhou, W., 2025: Westward shift in western North Pacific tropical cyclones in CMIP6-HighResMIP models. Atm. and Ocn. Sci. Lett. [https://doi.org/10.1016/j.aosl.2025.100594](https://doi.org/10.1016/j.aosl.2025.100594)
 
 Lorenzo, M., Meucci, A., Liu, J. et al., 2025: From global to regional-scale CMIP6-derived wind wave extremes: a single-GCM HighResMIP and CORDEX downscaling experiment in South-East Australia. Clim Dyn 63, 97. [https://doi.org/10.1007/s00382-024-07504-8](https://doi.org/10.1007/s00382-024-07504-8)
 
 Moreno-Chamarro, E., Arsouze, T., Acosta, M., Bretonnière, P.-A., Castrillo, M., Ferrer, E., Frigola, A., Kuznetsova, D., Martin-Martinez, E., Ortega, P., and Palomas, S., 2025: The very-high-resolution configuration of the EC-Earth global model for HighResMIP, Geosci. Model Dev., 18, 461–482. [https://doi.org/10.5194/gmd-18-461-2025](https://doi.org/10.5194/gmd-18-461-2025).
 
+Ogawa, F., S. Minobe, M. J. Roberts, R. Haarsma, D. Putrasahan, E. Scoccimarro, L. Terray, and P. L. Vidale, 2025: Cause of the Recent Tendency of Tropical Cyclones Approaching Coasts as Revealed by HighResMIP-PRIMAVERA Simulations. J. Climate, 38, 1351–1364. [https://doi.org/10.1175/JCLI-D-24-0173.1](https://doi.org/10.1175/JCLI-D-24-0173.1)
+
 Roberts, M. J., Reed, K. A., Bao, Q., Barsugli, J. J., Camargo, S. J., Caron, L.-P., Chang, P., Chen, C.-T., Christensen, H. M., Danabasoglu, G., Frenger, I., Fučkar, N. S., ul Hasson, S., Hewitt, H. T., Huang, H., Kim, D., Kodama, C., Lai, M., Leung, L.-Y. R., Mizuta, R., Nobre, P., Ortega, P., Paquin, D., Roberts, C. D., Scoccimarro, E., Seddon, J., Treguier, A. M., Tu, C.-Y., Ullrich, P. A., Vidale, P. L., Wehner, M. F., Zarzycki, C. M., Zhang, B., Zhang, W., and Zhao, M., 2025: High-Resolution Model Intercomparison Project phase 2 (HighResMIP2) towards CMIP7, Geosci. Model Dev., 18, 1307–1332. [https://doi.org/10.5194/gmd-18-1307-2025](https://doi.org/10.5194/gmd-18-1307-2025)
 
-### 2024 (14)
+### 2024 (16)
 Bokri, A., and Salimun, E., 2024: Future projection of extreme rainfall over Malaysia using HighResMIP (CMIP6) during boreal winter and summer. The Proceedings of The International Conference on Climate Change, 8(1), 22–35. [https://doi.org/10.17501/2513258X.2024.8103](https://doi.org/10.17501/2513258X.2024.8103).
 
 Bower, E. and Reed, K.A, 2024: Using high resolution climate models to explore future changes in post-tropical cyclone precipitation. Environ. Res. Lett. 19. [https://doi.org/10.1088/1748-9326/ad2163](https://doi.org/10.1088/1748-9326/ad2163)
 
 Chen, K., Hong, C., Tsou, C., and Wu, D., 2024: Present Climate and Future Changes in the Annual Cycle of TC Activity in the WNP Investigated by HighResMIP GCMs. J. Climate, 37, 4775–4791. [https://doi.org/10.1175/JCLI-D-24-0048.1](https://doi.org/10.1175/JCLI-D-24-0048.1)
+
+Chen, X., Zhou, T., Wu, P., & Roberts, M. J., 2024: Better resolved orography improves precipitation simulation over the Tibetan Plateau in high-resolution models. Journal of Geophysical Research: Atmospheres, 129, e2024JD041140. https://doi.org/10.1029/2024JD041140
 
 Gao, J., Minobe, S., Roberts, M.J. et al, 2024: Projected future changes in bomb cyclones by the HighResMIP-PRIMAVERA multimodel ensemble. Clim. Dyn. [https://doi.org/10.1007/s00382-024-07327-7](https://doi.org/10.1007/s00382-024-07327-7)
 
@@ -35,6 +39,8 @@ Müller, O. V., McGuire, P. C., Vidale, P. L., and Hawkins, E., 2024: River flow
 Negron-Juarez, R., Wehner, M., Silva Dias, A.M.F., Ullrich, P., Chambers, J. and Riley, W.J.: Coupled Model Intercomparison Project Phase 6 (CMIP6) High Resolution Model Intercomparison Project (HighResMIP) Bias in Extreme Rainfall Drives Underestimation of Amazonian Precipitation. Env. Res. Comms. [https://doi.org/10.1088/2515-7620/ad6ff9](https://doi.org/10.1088/2515-7620/ad6ff9)
 
 Pall, P., Gagnon, A. S., Bollasina, M. A., Zarzycki, C. M., Huang, Y., Beckett, C. T. S., Ramanantoanina, H., & Reynolds, T. P. S., 2024: Assessing South Indian Ocean tropical cyclone characteristics in HighResMIP simulations. International Journal of Climatology, 44(13), 4792–4808. [https://doi.org/10.1002/joc.8609](https://doi.org/10.1002/joc.8609)
+
+Li, Z., Zhou, W, 2024: Poleward migration of tropical cyclones over the western North Pacific in the CMIP6-HighResMIP models constrained by observations. npj Clim Atmos Sci 7, 161. [https://doi.org/10.1038/s41612-024-00704-3](https://doi.org/10.1038/s41612-024-00704-3).
 
 Selivanova, J., Iovino, D., and Cocetta, F., 2024: Past and future of the Arctic sea ice in High-Resolution Model Intercomparison Project (HighResMIP) climate models, The Cryosphere, 18, 2739–2763. [https://doi.org/10.5194/tc-18-2739-2024](https://doi.org/10.5194/tc-18-2739-2024).
 
@@ -358,14 +364,7 @@ R. J. Haarsma, M. Roberts, P. L. Vidale, C. A. Senior, A. Bellucci, Q. Bao, P. C
 
 
 ## Submitted/in prep (4)
-Chen, X., Zhou, T., Wu, P., Roberts, M.J., 2024: Better resolved orography improves precipitation simulation over the Tibetan Plateau in high-resolution models. J. Geophy. Res. (Atmos), revised.
-
-Lockwood, J.F., Athanasiadis, P., Baker, A.J., Hodges, K., Priestley, M.D.K, Roberts, M., Scaife, A.A., Vidale, P. L., Zappa, G., 2024: The effect of increased model resolution on the Northern Hemisphere winter mid-latitude storm track: An equatorward shift due to contraction of the Hadley cell. J. Clim., submitted.
-
-Roberts, M. J., Reed, K. A., Bao, Q., Barsugli, J. J., Camargo, S. J., Caron, L.-P., Chang, P., Chen, C.-T., Christensen, H. M., Danabasoglu, G., Frenger, I., Fučkar, N. S., Hasson, S. U., Hewitt, H. T., Huang, H., Kim, D., Kodama, C., Lai, M., Leung, L.-Y. R., Mizuta, R., Nobre, P., Ortega, P., Paquin, D., Roberts, C. D., Scoccimarro, E., Seddon, J., Treguier, A. M., Tu, C.-Y., Ullrich, P. A., Vidale, P. L., Wehner, M. F., Zarzycki, C. M., Zhang, B., Zhang, W., and Zhao, M., 2024: High Resolution Model Intercomparison Project phase 2 (HighResMIP2) towards CMIP7, EGUsphere [preprint]. [https://doi.org/10.5194/egusphere-2024-2582](https://doi.org/10.5194/egusphere-2024-2582).
-
-Ogawa, F., Minobe, S. Roberts, M.J.,  Haarsma, R., Putrasahan, D., Scoccimarro, E., Terray, L., and Vidale, P.L., 2024: Cause of the recent tendency of tropical cyclones approaching coasts as revealed by HighResMIP-PRIMAVERA simulations. J. Clim., revised.
-
+Lockwood, J.F., Athanasiadis, P., Baker, A.J., Hodges, K., Priestley, M.D.K, Roberts, M., Scaife, A.A., Vidale, P. L., Zappa, G., 2024: The effect of increased model resolution on the Northern Hemisphere winter mid-latitude storm track: An equatorward shift due to contraction of the Hadley cell. J. Clim., accepted.
 
 ## Derived datasets
 Roberts, M. (2019): CMIP6 HighResMIP: Tropical storm tracks. Centre for Environmental Data Analysis, *date of citation*. [http://catalogue.ceda.ac.uk/uuid/e82a62d926d7448696a2b60c1925f811](http://catalogue.ceda.ac.uk/uuid/e82a62d926d7448696a2b60c1925f811).
