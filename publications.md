@@ -8,7 +8,9 @@ The following are publications known to include results using CMIP6 HighResMIP m
 
 
 ## Published
-### 2025 (5)
+### 2025 (6)
+Chang, C., M. Zhao, S. W. Lubis, Z. Chen, K. Balaguru, S. Hagos, L. R. Leung, and W. Zhou, 2025: Are North Atlantic Tropical Cyclones Modulated by the Madden-Julian Oscillation in HighResMIP AGCMs?. J. Climate. [https://doi.org/10.1175/JCLI-D-24-0509.1](https://doi.org/10.1175/JCLI-D-24-0509.1)
+
 Li, W., Zhou, W., 2025: Westward shift in western North Pacific tropical cyclones in CMIP6-HighResMIP models. Atm. and Ocn. Sci. Lett. [https://doi.org/10.1016/j.aosl.2025.100594](https://doi.org/10.1016/j.aosl.2025.100594)
 
 Lorenzo, M., Meucci, A., Liu, J. et al., 2025: From global to regional-scale CMIP6-derived wind wave extremes: a single-GCM HighResMIP and CORDEX downscaling experiment in South-East Australia. Clim Dyn 63, 97. [https://doi.org/10.1007/s00382-024-07504-8](https://doi.org/10.1007/s00382-024-07504-8)
@@ -26,7 +28,7 @@ Bower, E. and Reed, K.A, 2024: Using high resolution climate models to explore f
 
 Chen, K., Hong, C., Tsou, C., and Wu, D., 2024: Present Climate and Future Changes in the Annual Cycle of TC Activity in the WNP Investigated by HighResMIP GCMs. J. Climate, 37, 4775–4791. [https://doi.org/10.1175/JCLI-D-24-0048.1](https://doi.org/10.1175/JCLI-D-24-0048.1)
 
-Chen, X., Zhou, T., Wu, P., & Roberts, M. J., 2024: Better resolved orography improves precipitation simulation over the Tibetan Plateau in high-resolution models. Journal of Geophysical Research: Atmospheres, 129, e2024JD041140. https://doi.org/10.1029/2024JD041140
+Chen, X., Zhou, T., Wu, P., & Roberts, M. J., 2024: Better resolved orography improves precipitation simulation over the Tibetan Plateau in high-resolution models. Journal of Geophysical Research: Atmospheres, 129, e2024JD041140. [https://doi.org/10.1029/2024JD041140](https://doi.org/10.1029/2024JD041140)
 
 Gao, J., Minobe, S., Roberts, M.J. et al, 2024: Projected future changes in bomb cyclones by the HighResMIP-PRIMAVERA multimodel ensemble. Clim. Dyn. [https://doi.org/10.1007/s00382-024-07327-7](https://doi.org/10.1007/s00382-024-07327-7)
 
@@ -39,8 +41,6 @@ Müller, O. V., McGuire, P. C., Vidale, P. L., and Hawkins, E., 2024: River flow
 Negron-Juarez, R., Wehner, M., Silva Dias, A.M.F., Ullrich, P., Chambers, J. and Riley, W.J.: Coupled Model Intercomparison Project Phase 6 (CMIP6) High Resolution Model Intercomparison Project (HighResMIP) Bias in Extreme Rainfall Drives Underestimation of Amazonian Precipitation. Env. Res. Comms. [https://doi.org/10.1088/2515-7620/ad6ff9](https://doi.org/10.1088/2515-7620/ad6ff9)
 
 Pall, P., Gagnon, A. S., Bollasina, M. A., Zarzycki, C. M., Huang, Y., Beckett, C. T. S., Ramanantoanina, H., & Reynolds, T. P. S., 2024: Assessing South Indian Ocean tropical cyclone characteristics in HighResMIP simulations. International Journal of Climatology, 44(13), 4792–4808. [https://doi.org/10.1002/joc.8609](https://doi.org/10.1002/joc.8609)
-
-Li, Z., Zhou, W, 2024: Poleward migration of tropical cyclones over the western North Pacific in the CMIP6-HighResMIP models constrained by observations. npj Clim Atmos Sci 7, 161. [https://doi.org/10.1038/s41612-024-00704-3](https://doi.org/10.1038/s41612-024-00704-3).
 
 Selivanova, J., Iovino, D., and Cocetta, F., 2024: Past and future of the Arctic sea ice in High-Resolution Model Intercomparison Project (HighResMIP) climate models, The Cryosphere, 18, 2739–2763. [https://doi.org/10.5194/tc-18-2739-2024](https://doi.org/10.5194/tc-18-2739-2024).
 
