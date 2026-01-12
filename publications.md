@@ -6,18 +6,32 @@ permalink: /about/publications/
 
 The following are publications known to include results using CMIP6 HighResMIP model simulations or derived information (or be extremely relevant/related). Papers that include PRIMAVERA co-authors can also be found at [https://www.primavera-h2020.eu/output/scientific-papers/](https://www.primavera-h2020.eu/output/scientific-papers/).
 
-
 ## Published
-### 2025 (6)
+### 2026 (2)
+Krüger, J., Kjellsson, J., Lohmann, K. et al, 2026: Improved European heat event simulation in eddy-resolving climate models. Commun Earth Environ. [https://doi.org/10.1038/s43247-025-03145-9](https://doi.org/10.1038/s43247-025-03145-9)
+
+Miao, G., Wang, C., Wu, L., Cao, J., & Zhao, H., 2026: How much of the interannual variability in western North Pacific tropical cyclone activity is driven by sea surface temperature? Evidence from CMIP6 HighResMIP simulations. JGR: Atmos., 131, e2025JD044812. [https://doi.org/10.1029/2025JD044812](https://doi.org/10.1029/2025JD044812)
+
+### 2025 (11)
+Bolivar, A. J., and C. M. Zarzycki, 2025: How Do Tropical Cyclones Directly Simulated in High-Resolution Climate Models Differ from Statistically Dynamically Generated Storms?. J. Climate, 39, 145–168.[https://doi.org/10.1175/JCLI-D-24-0454.1](https://doi.org/10.1175/JCLI-D-24-0454.1)
+
+Busatto J, Bellucci A, Adduce C, Yang C, 2025: The impact of horizontal resolution on the representation of thermal air-sea interaction of the Agulhas system in coupled climatemodels. PLOS Clim 4(9): e0000680. [https://doi.org/10.1371/journal.pclm.0000680](https://doi.org/10.1371/journal.pclm.0000680)
+
 Chang, C., M. Zhao, S. W. Lubis, Z. Chen, K. Balaguru, S. Hagos, L. R. Leung, and W. Zhou, 2025: Are North Atlantic Tropical Cyclones Modulated by the Madden-Julian Oscillation in HighResMIP AGCMs?. J. Climate. [https://doi.org/10.1175/JCLI-D-24-0509.1](https://doi.org/10.1175/JCLI-D-24-0509.1)
 
 Li, W., Zhou, W., 2025: Westward shift in western North Pacific tropical cyclones in CMIP6-HighResMIP models. Atm. and Ocn. Sci. Lett. [https://doi.org/10.1016/j.aosl.2025.100594](https://doi.org/10.1016/j.aosl.2025.100594)
 
 Lorenzo, M., Meucci, A., Liu, J. et al., 2025: From global to regional-scale CMIP6-derived wind wave extremes: a single-GCM HighResMIP and CORDEX downscaling experiment in South-East Australia. Clim Dyn 63, 97. [https://doi.org/10.1007/s00382-024-07504-8](https://doi.org/10.1007/s00382-024-07504-8)
 
+Mishra, A. K., S. Kesarwani, S. Dwivedi, and A. S. Dinesh, 2025: Future Projections of Marine Heatwaves in the Northern Indian Ocean Using the HighResMIP Models: Role of Horizontal Resolution and Percentile Thresholds. Int. J. Clim., e70197. [https://doi.org/10.1002/joc.70197]([https://doi.org/10.1002/joc.70197).
+
 Moreno-Chamarro, E., Arsouze, T., Acosta, M., Bretonnière, P.-A., Castrillo, M., Ferrer, E., Frigola, A., Kuznetsova, D., Martin-Martinez, E., Ortega, P., and Palomas, S., 2025: The very-high-resolution configuration of the EC-Earth global model for HighResMIP, Geosci. Model Dev., 18, 461–482. [https://doi.org/10.5194/gmd-18-461-2025](https://doi.org/10.5194/gmd-18-461-2025).
 
+Moura, R., Casagrande, F., & de Souza, R. B., 2025: An Overview of Air-Sea Heat Flux Products and CMIP6 HighResMIP Models in the Southern Ocean. Atmosphere, 16(4), 402. [https://doi.org/10.3390/atmos16040402](https://doi.org/10.3390/atmos16040402)
+
 Ogawa, F., S. Minobe, M. J. Roberts, R. Haarsma, D. Putrasahan, E. Scoccimarro, L. Terray, and P. L. Vidale, 2025: Cause of the Recent Tendency of Tropical Cyclones Approaching Coasts as Revealed by HighResMIP-PRIMAVERA Simulations. J. Climate, 38, 1351–1364. [https://doi.org/10.1175/JCLI-D-24-0173.1](https://doi.org/10.1175/JCLI-D-24-0173.1)
+
+Rabezanahary Tanteliniaina, M. F., Z. Jun, and M. H. Andrianarimanana, 2025: Evaluation of the Performance of HighResMIP CMIP6 in Simulating Extreme Precipitation in Madagascar. Int. J. Clim., 45, no. 11: e70011. [https://doi.org/10.1002/joc.70011](https://doi.org/10.1002/joc.70011)
 
 Roberts, M. J., Reed, K. A., Bao, Q., Barsugli, J. J., Camargo, S. J., Caron, L.-P., Chang, P., Chen, C.-T., Christensen, H. M., Danabasoglu, G., Frenger, I., Fučkar, N. S., ul Hasson, S., Hewitt, H. T., Huang, H., Kim, D., Kodama, C., Lai, M., Leung, L.-Y. R., Mizuta, R., Nobre, P., Ortega, P., Paquin, D., Roberts, C. D., Scoccimarro, E., Seddon, J., Treguier, A. M., Tu, C.-Y., Ullrich, P. A., Vidale, P. L., Wehner, M. F., Zarzycki, C. M., Zhang, B., Zhang, W., and Zhao, M., 2025: High-Resolution Model Intercomparison Project phase 2 (HighResMIP2) towards CMIP7, Geosci. Model Dev., 18, 1307–1332. [https://doi.org/10.5194/gmd-18-1307-2025](https://doi.org/10.5194/gmd-18-1307-2025)
 

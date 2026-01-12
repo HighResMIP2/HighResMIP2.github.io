@@ -5,6 +5,8 @@ permalink: /news/
 ---
 
 News on HighResMIP
+### 12/01/2026
+Plans for CMIP7 HighResMIP will be presented as part of the CMIP IPO Virtual Showcases on 19/02/2026 at 0800 and 1600 UCT. For details and registration please see: [https://airtable.com/appGEHtbRi0wy6T0x/pag7xfALmAEMb0HBB/form]. Global high resolution is also part of an oral and poster session at the CMIP7 Workshop in Kyoto during Mar 09-13 2026.
 
 ### 03/03/2025
 The HighResMIP2 paper is finally published in GMD, many thanks to all the co-authors. We now need to get some groups to perform the simulations as part of CMIP7! We will update the website with advice on CMIP7 forcings once they become available.
