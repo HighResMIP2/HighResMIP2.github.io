@@ -1,0 +1,35 @@
+---
+layout: default
+title: News
+permalink: /news/
+---
+
+News on HighResMIP
+### 12/01/2026
+Plans for CMIP7 HighResMIP will be presented as part of the CMIP IPO Virtual Showcases on 19/02/2026 at 0800 and 1600 UCT. For details and registration please see: [https://airtable.com/appGEHtbRi0wy6T0x/pag7xfALmAEMb0HBB/form]. Global high resolution is also part of an oral and poster session at the CMIP7 Workshop in Kyoto during Mar 09-13 2026.
+
+### 03/03/2025
+The HighResMIP2 paper is finally published in GMD, many thanks to all the co-authors. We now need to get some groups to perform the simulations as part of CMIP7! We will update the website with advice on CMIP7 forcings once they become available.
+
+### 27/08/2024
+The HighResMIP2 manuscript has (finally) been submitted to GMD, into the CMIP7 special issue. The preprint is <a href="https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2582/"> here </a>. Please feel free to comment on it while it is open on the GMD Discussions. Many thanks to all the contributors over the last several years to get us to this point.
+
+### 29/11/2023
+HighResMIP has been asked to provide some slides for several upcoming meetings - for a CMIP talk at an IPCC pavilion event on 2nd Dec, at a CMIP panel meeting on 5th Dec and at a CMIP townhall meeting during AGU on 12th Dec at 1pm. The slides will be made available here once completed.
+
+### 29/11/2023
+The HighResMIP-EERIE workshop was a successful discussion of the opportunities offered by some new simulations, as well as showing the exciting science still coming from the CMIP6 HighResMIP (and other high resolution global) simulations. The minutes will appear in the same link as the agenda in the post above.
+
+### 26/10/2023
+The HighResMIP-EERIE workshop will be held on Wed 8th Nov at 1-4pm GMT (2-5pm CET). The agenda can be found at: <a href="https://docs.google.com/document/d/1Y7mw4yZ6mYIXKLZwjQpKPIvaIttVdF-T/edit"> HighResMIP-EERIE workshop </a>. The webex link for the workshop can be found within the document.
+
+### 30/08/2023
+We are holding a workshop between HighResMIP and the EU <a href="https://eerie-project.eu"> EERIE </a> project on Wed 8th Nov at around 2pm European time. Three groups in EERIE will (hopefully) by then be running new coupled HighResMIP simulations with eddy-rich oceans. The workshop will discuss HighResMIP plans (including discussion of the draft protocol paper), analysis ideas and how HighResMIP and EERIE can best work together. This is part of the EERIE General Assembly in Bremerhaven, Germany, which includes a hackathon over the following two days. Further details will follow, but if you'd be interested in joining in person please let us know. 
+
+### 29/08/2023
+As part of UK preparations for CMIP7, a workshop is being held at Reading University on 04/09/2023. The HighResMIP co-leads have put together a <a href="/assets/images/documents/UKCMIP7_Sept2023_HighResMIP_MalcolmRoberts_poster.pdf"> poster </a> to indicate some of their thinking for HighResMIPv2, and a draft of a new protocol paper is being worked on.
+
+
+
+
+
