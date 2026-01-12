@@ -12,7 +12,7 @@ Krüger, J., Kjellsson, J., Lohmann, K. et al, 2026: Improved European heat even
 
 Miao, G., Wang, C., Wu, L., Cao, J., & Zhao, H., 2026: How much of the interannual variability in western North Pacific tropical cyclone activity is driven by sea surface temperature? Evidence from CMIP6 HighResMIP simulations. JGR: Atmos., 131, e2025JD044812. [https://doi.org/10.1029/2025JD044812](https://doi.org/10.1029/2025JD044812)
 
-### 2025 (12)
+### 2025 (11)
 Bolivar, A. J., and C. M. Zarzycki, 2025: How Do Tropical Cyclones Directly Simulated in High-Resolution Climate Models Differ from Statistically Dynamically Generated Storms?. J. Climate, 39, 145–168.[https://doi.org/10.1175/JCLI-D-24-0454.1](https://doi.org/10.1175/JCLI-D-24-0454.1)
 
 Busatto J, Bellucci A, Adduce C, Yang C, 2025: The impact of horizontal resolution on the representation of thermal air-sea interaction of the Agulhas system in coupled climatemodels. PLOS Clim 4(9): e0000680. [https://doi.org/10.1371/journal.pclm.0000680](https://doi.org/10.1371/journal.pclm.0000680)
