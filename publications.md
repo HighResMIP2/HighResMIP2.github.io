@@ -12,7 +12,7 @@ Krüger, J., Kjellsson, J., Lohmann, K. et al, 2026: Improved European heat even
 
 Miao, G., Wang, C., Wu, L., Cao, J., & Zhao, H., 2026: How much of the interannual variability in western North Pacific tropical cyclone activity is driven by sea surface temperature? Evidence from CMIP6 HighResMIP simulations. JGR: Atmos., 131, e2025JD044812. [https://doi.org/10.1029/2025JD044812](https://doi.org/10.1029/2025JD044812)
 
-### 2025 (11)
+### 2025 (12)
 Bolivar, A. J., and C. M. Zarzycki, 2025: How Do Tropical Cyclones Directly Simulated in High-Resolution Climate Models Differ from Statistically Dynamically Generated Storms?. J. Climate, 39, 145–168.[https://doi.org/10.1175/JCLI-D-24-0454.1](https://doi.org/10.1175/JCLI-D-24-0454.1)
 
 Busatto J, Bellucci A, Adduce C, Yang C, 2025: The impact of horizontal resolution on the representation of thermal air-sea interaction of the Agulhas system in coupled climatemodels. PLOS Clim 4(9): e0000680. [https://doi.org/10.1371/journal.pclm.0000680](https://doi.org/10.1371/journal.pclm.0000680)
@@ -20,6 +20,8 @@ Busatto J, Bellucci A, Adduce C, Yang C, 2025: The impact of horizontal resoluti
 Chang, C., M. Zhao, S. W. Lubis, Z. Chen, K. Balaguru, S. Hagos, L. R. Leung, and W. Zhou, 2025: Are North Atlantic Tropical Cyclones Modulated by the Madden-Julian Oscillation in HighResMIP AGCMs?. J. Climate. [https://doi.org/10.1175/JCLI-D-24-0509.1](https://doi.org/10.1175/JCLI-D-24-0509.1)
 
 Li, W., Zhou, W., 2025: Westward shift in western North Pacific tropical cyclones in CMIP6-HighResMIP models. Atm. and Ocn. Sci. Lett. [https://doi.org/10.1016/j.aosl.2025.100594](https://doi.org/10.1016/j.aosl.2025.100594)
+
+Lockwood, J. F., and Coauthors, 2025: The Effect of Increasing Model Resolution on the Northern Hemisphere Winter Midlatitude Storm Track: An Equatorward Shift due to Contraction of the Hadley Cell. J. Climate, 38, 4539–4551. [https://doi.org/10.1175/JCLI-D-24-0414.1](https://doi.org/10.1175/JCLI-D-24-0414.1)
 
 Lorenzo, M., Meucci, A., Liu, J. et al., 2025: From global to regional-scale CMIP6-derived wind wave extremes: a single-GCM HighResMIP and CORDEX downscaling experiment in South-East Australia. Clim Dyn 63, 97. [https://doi.org/10.1007/s00382-024-07504-8](https://doi.org/10.1007/s00382-024-07504-8)
 
@@ -109,7 +111,6 @@ Smith, I.H., Williams, P.D. & Schiemann, R., 2023: Clear-air turbulence trends o
 
 Wang, S., Ma, X., Zhou, S. et al., 2023: Extreme atmospheric rivers in a warming climate. Nat Commun 14, 3219. [https://doi.org/10.1038/s41467-023-38980-x](https://doi.org/10.1038/s41467-023-38980-x)
 
-## Published
 ### 2022 (26)
 
 Athanasiadis, P. J., Ogawa, F., Omrani, N.-E., Keenlyside, N., Schiemann, R., Baker, A.J., Vidale, P.L., Bellucci, A., Ruggieri, P., Haarsma, R., Roberts, M., Roberts, C., Novak, L., Guialdi, S., 2022: Mitigating climate biases in the mid-latitude North Atlantic by increasing model resolution: SST gradients and their relation to blocking and the jet. J. Clim. [https://doi.org/10.1175/JCLI-D-21-0515.1](https://doi.org/10.1175/JCLI-D-21-0515.1).
@@ -377,8 +378,7 @@ H. T. Hewitt, M. J. Bell, E. P. Chassignet, A. Czaja, D. Ferreira, S. M. Griffie
 R. J. Haarsma, M. Roberts, P. L. Vidale, C. A. Senior, A. Bellucci, Q. Bao, P. Chang, S. Corti, N. S. Fučkar, V. Guemas, J. von Hardenberg, W. Hazeleger, C. Kodama, T. Koenigk, L. R. Leung, J. Lu, J.-J. Luo, J. Mao, M. S. Mizielinski, R. Mizuta, P. Nobre, M. Satoh, E. Scoccimarro, T. Semmler, J. Small, J.-S. von Storch, 2016: High resolution model intercomparison project (HighResMIP). Geoscientifc Model Development. [https://doi.org/10.5194/gmd-9-4185-2016](https://doi.org/10.5194/gmd-9-4185-2016)
 
 
-## Submitted/in prep (4)
-Lockwood, J.F., Athanasiadis, P., Baker, A.J., Hodges, K., Priestley, M.D.K, Roberts, M., Scaife, A.A., Vidale, P. L., Zappa, G., 2024: The effect of increased model resolution on the Northern Hemisphere winter mid-latitude storm track: An equatorward shift due to contraction of the Hadley cell. J. Clim., accepted.
+## Submitted/in prep (0)
 
 ## Derived datasets
 Roberts, M. (2019): CMIP6 HighResMIP: Tropical storm tracks. Centre for Environmental Data Analysis, *date of citation*. [http://catalogue.ceda.ac.uk/uuid/e82a62d926d7448696a2b60c1925f811](http://catalogue.ceda.ac.uk/uuid/e82a62d926d7448696a2b60c1925f811).
@@ -394,3 +394,4 @@ Synthetic TC track datasets from Bloemendaal et al. (2022). [https://doi.org/10.
 ## HighResMIP protocol citations:
 
 Citations and other metrics are available from [Haarsma et al., 2016](https://gmd.copernicus.org/articles/9/4185/2016/gmd-9-4185-2016-metrics.html).
+Citations and other metrics for CMIP7 HighResMIP at [Roberts et al., 2025](https://gmd.copernicus.org/articles/18/1307/2025/gmd-18-1307-2025-metrics.html)
