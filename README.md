@@ -16,17 +16,17 @@ It is relatively easy to install Ruby and Jekyll into a Conda environment:
 
     `conda activate ruby`
 
+1. Change directory to your local copy of the repository:
+
+    `cd <path-to-local-copy-of-repo>`
+
 1. Install Jekyll, bundler and their dependencies into this environment:
     
     `gem install jekyll bundler`
 
-1. Jekyll expects Ruby to be installed into the same Gem, but this doesn't happen in this Conda environment and so manually add an appropriate symlink:
-    
-    `ln -s <path_to_conda>/envs/ruby/bin/ruby <path_to_conda>/envs/ruby/share/rubygems/bin/ruby` 
+1. Install other requirements specified in the Gemfile:
 
-1. In Ruby V3 some dependencies aren't installed automatically and so add these:
-
-    `bundle add webrick`
+    `bundle install`
     
 1. The above steps only need to be done on the initial creation of the Conda environment. Subsequently the Conda environment can be started with just:
 
@@ -38,7 +38,7 @@ It is relatively easy to install Ruby and Jekyll into a Conda environment:
 
 1. The site can then be rendered and served locally:
 
-    `bundle exec jekyll serve `
+    `bundle exec jekyll serve`
 
     with the site being available from http://127.0.0.1:4000/
 
